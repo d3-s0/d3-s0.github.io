@@ -5,8 +5,6 @@ date:   2026-09-05 20:20:00 +0100
 categories: jekyll update
 ---
 
-# Programming
-
 Programs are just a sequence of instructions telling a computer what to do.
 The problem with human language is that it’s ambiguous. We only understand each other because we share a lot of common knowledge and experience.  Even then we struggle with communication.  Computer scientists circumvented this problem by making special notations for everything that can be computed – called programming languages. 
 Every structure in programming languages has a precise form (syntax) and precise meaning (semantics). These languages are called High level programming languages because they are designed for humans. Computers though can only understand machine language and eventually in binary. There are two ways for your code to get to binary machine code (0,1) 
@@ -17,7 +15,7 @@ Every structure in programming languages has a precise form (syntax) and precise
 •	OOP: Classes, objects, and inheritance
 
  
-Variables
+# Fundamentals: variables, and operators
 •	Good programmers choose names that describe the thing being named
 •	Data types
 •	Types: int, floats, string, Boolean, char, null or none, 
@@ -42,7 +40,7 @@ Variables
 •	Floats
 •	Control
  
-Control: Conditionals and loops
+# Control: Conditionals and loops
 •	Conditional – if, else
 •	Aim: minimize the number of checks the computer performs:
 •	Place the most likely case first: Put the condition most likely to be true at the top of an if/elif chain so Python can skip subsequent checks immediately.
@@ -58,7 +56,9 @@ Control: Conditionals and loops
 •	To make loops efficient in Python, the best strategy is often to  avoid them entirely by using built-in functions or vectorization. If you must use them, you should minimize "overhead"—the extra work Python does to look up variables and function
 •	List comprehensions are generally faster than traditional for loops with .append()because they are optimized at the C-level and use a specialized bytecode instruction (LIST_APPEND) to build the list in one go. 
 •	Python's built-in functions like sum(), max(), and min() are implemented in C and are significantly faster than writing a loop to do the same calculation manually
-•	Data structures
+
+
+# Data structures
 •	Lists or arrays
 •	Dicts or maps
 •	Sets (unique values)
@@ -72,6 +72,7 @@ Control: Conditionals and loops
 •	Data structures - Dictionaries
 •	Editing Dictionaries
 •	Replacing a value
+
 Data tables library 
 •	Using replace on one column
 •	df['colname'] = df['colname'].replace('X': 'Y', 'A': 'B')
@@ -92,7 +93,9 @@ Data tables library
 •	Graphs
 •	Trees
 •	Heap queue
-Conditional and Loops
+
+
+# Conditional and Loops
 •	Operators 
 •	Arithmetic (=,+,-,)
 •	Comparison (<,>)
@@ -141,7 +144,8 @@ Classes
 •	The `__init__` Method
 •	When creating an object, the `__init__` method initializes instance
 •	attributes, which are specific data attached to each object.
-OOP
+
+# OOP: Classes, objects, and inheritance
 -	Essence of design is describing a system in terms of magica black boxes and htei interfaces. Other components are users or clients of the services
 -	Black box just has to make sure the service is faithfully delivered. Separation of concern is what makes deisgn of comple sysems possible.
 -	Magic behind objects lies in class definition. Once a suitable class definition has been written we can ignore how the class works. Just rely onexternal interface – the methods. 
@@ -159,16 +163,15 @@ OOP
 -	Polymorphism
 
  
-Language types
-Compiled languages
- 
+# Language types
+## Compiled languages
 Translate a high-level programming language to machine language that a computer can understand can be done in two ways: compile or interpret. High level languages are portable, but the machine language is custom for that CPU. A program that works for Intel CPU won’t work on ARM CPU. On the other hand, as long as we have the interpreter or compiler we need we can run our language on any CPU.
 A compiler – translates the high level into machine language of a computer. Once it’s been compiled the code can be run again and again without a need to compile. 
  
-Interpreted languages
+## Interpreted languages
 An interpreter – analyses and executes the source code instruction by instruction as necessary. Interpreter and source are needed every time the program runs. 
  
-Data storage 
+# Data storage 
 •	A database is a self-describing collection of integrated records:
 •	Self-describing: contains metadata
 •	Integrated: contains relationships

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data Science"
+title:  "Data Science flow"
 date:   2026-09-05 20:00:00 +0100
 categories: jekyll update
 ---
@@ -9,7 +9,7 @@ categories: jekyll update
 
 Data science workflow
 The modern age is the time of Big Data. Data science is processing the data into evidence-based conclusions using data. 
-Step 1: Problem
+# Step 1: Problem
 1.	What problem are you trying to solve? 
 2.	Who is your audience?
 3.	What do you need them to know/do?
@@ -18,7 +18,7 @@ Step 1: Problem
 6.	What would a successful outcome look like?
  
 
-Step 2: Explore 
+# Step 2: Explore 
 Obtain access to all datasets. Ingest data into analysis environment. Review dataset structure. Verify data types. Understand variable definitions. Identify data quality issues. Visualise distributions. What data is relevant? 
 
 Descriptive statistics: 
@@ -28,13 +28,13 @@ Descriptive statistics:
 •	Create scatter plots, boxplots and heatmaps.
 •	Identify anomalies or outliers.
 
-Step 3: Build model
+# Step 3: Build model
 •	Start with simple baseline models.
 •	Increase complexity only when justified.
 •	Train models.
 •	Run experiments.
 
-Step 4: Evaluate model
+# Step 4: Evaluate model
 Assess performance metrics.
 
 •	Categorical (Classification)
@@ -53,7 +53,7 @@ Assess performance metrics.
 •	Absolute error distribution
 •	Residual sum of squares
 
-Step 5: Visualisation
+# Step 5: Visualisation
 The main plots
 •	Table: Reading precise individual values.
 •	Heatmap: Spotting patterns using colour intensity.
@@ -232,12 +232,6 @@ Repetition
 •	Heat pump: dependency between multiple variables
 •	Time series plots: identify trends over time
 
- 
-Build ETL pipeline
-Build automated data pipeline. Automate ingestion processes. Transformation
-•	Automate cleaning processes.
-•	Split training and test datasets.
-•	Prevent data leakage.
  
 
 

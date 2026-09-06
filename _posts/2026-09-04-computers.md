@@ -32,7 +32,6 @@ Silicon is the second most abundant element in Earth’s crust, and sand provide
 Billions of transistors are created on each wafer. 
  
 
- 
 # RAM
 RAM comes in sizes like 4gb, 8gb, 16gb, and 32gb, and it is essential for temporary data storage during active tasks.
 PSU
