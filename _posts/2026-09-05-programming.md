@@ -4,18 +4,21 @@ title:  "Programming"
 date:   2026-09-05 20:20:00 +0100
 categories: jekyll update
 ---
+* [Fundamentals ](#fundamentals)
+* [Control: Conditionals and loops](#control)
 
+# Programming languages
 Programs are just a sequence of instructions telling a computer what to do.
-The problem with human language is that it’s ambiguous. We only understand each other because we share a lot of common knowledge and experience.  Even then we struggle with communication.  Computer scientists circumvented this problem by making special notations for everything that can be computed – called programming languages. 
-Every structure in programming languages has a precise form (syntax) and precise meaning (semantics). These languages are called High level programming languages because they are designed for humans. Computers though can only understand machine language and eventually in binary. There are two ways for your code to get to binary machine code (0,1) 
-•	Fundamentals: variables, and operators.
-•	Control: Conditionals and loops.
-•	Data: Lists, dictionaries, tuples, and sets.
-•	Modularity: Functions and imported modules.
-•	OOP: Classes, objects, and inheritance
+The problem with human language is that it’s ambiguous. We only understand each other because we share a lot of common knowledge and experience.  Even then we struggle with communication.  Computer scientists circumvented this problem by making special notations for everything that can be computed – called programming languages. Every structure in programming languages has a precise form (syntax) and precise meaning (semantics). These languages are called High level programming languages because they are designed for humans. Computers though can only understand machine language and eventually in binary. There are two ways for your code to get to binary machine code (0,1) 
 
+## Compiled languages
+Translate a high-level programming language to machine language that a computer can understand can be done in two ways: compile or interpret. High level languages are portable, but the machine language is custom for that CPU. A program that works for Intel CPU won’t work on ARM CPU. On the other hand, as long as we have the interpreter or compiler we need we can run our language on any CPU.
+A compiler – translates the high level into machine language of a computer. Once it’s been compiled the code can be run again and again without a need to compile. 
  
-# Fundamentals: variables, and operators
+## Interpreted languages
+An interpreter – analyses and executes the source code instruction by instruction as necessary. Interpreter and source are needed every time the program runs. 
+  
+# Fundamentals
 •	Good programmers choose names that describe the thing being named
 •	Data types
 •	Types: int, floats, string, Boolean, char, null or none, 
@@ -40,7 +43,7 @@ Every structure in programming languages has a precise form (syntax) and precise
 •	Floats
 •	Control
  
-# Control: Conditionals and loops
+# Control
 •	Conditional – if, else
 •	Aim: minimize the number of checks the computer performs:
 •	Place the most likely case first: Put the condition most likely to be true at the top of an if/elif chain so Python can skip subsequent checks immediately.
@@ -145,7 +148,7 @@ Classes
 •	When creating an object, the `__init__` method initializes instance
 •	attributes, which are specific data attached to each object.
 
-# OOP: Classes, objects, and inheritance
+# OOP
 -	Essence of design is describing a system in terms of magica black boxes and htei interfaces. Other components are users or clients of the services
 -	Black box just has to make sure the service is faithfully delivered. Separation of concern is what makes deisgn of comple sysems possible.
 -	Magic behind objects lies in class definition. Once a suitable class definition has been written we can ignore how the class works. Just rely onexternal interface – the methods. 
@@ -163,15 +166,8 @@ Classes
 -	Polymorphism
 
  
-# Language types
-## Compiled languages
-Translate a high-level programming language to machine language that a computer can understand can be done in two ways: compile or interpret. High level languages are portable, but the machine language is custom for that CPU. A program that works for Intel CPU won’t work on ARM CPU. On the other hand, as long as we have the interpreter or compiler we need we can run our language on any CPU.
-A compiler – translates the high level into machine language of a computer. Once it’s been compiled the code can be run again and again without a need to compile. 
- 
-## Interpreted languages
-An interpreter – analyses and executes the source code instruction by instruction as necessary. Interpreter and source are needed every time the program runs. 
- 
-# Data storage 
+
+# Databases 
 •	A database is a self-describing collection of integrated records:
 •	Self-describing: contains metadata
 •	Integrated: contains relationships

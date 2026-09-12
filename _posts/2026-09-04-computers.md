@@ -6,13 +6,11 @@ categories: jekyll update
 ---
 
 Let’s break down the computer into its fundamental components:
-•	Central Processing Unit (CPU) 
-•	RAM (random access memory)
-•	HDD magnetic patterns on a spinning disk or SSD electronic circuits
-•	Motherboard
-•	Graphical Processing Unit (GPU)
-•	Case
-•	Power supply unit (PSU)
+* [Central Processing Unit (CPU) ](#cpu)
+* [RAM (random access memory)](#ram)
+* [Mother board](#mother-board)
+* [OS](#os)
+
 
 # CPU
 The CPU is the brain of the computer, responsible for general-purpose computing. It contains billions of transistors, which act as tiny switches representing binary data (1 and 0). The CPU performs tasks in multiple steps: 
@@ -41,10 +39,10 @@ For storage, Solid state drive (SSD) uses flash memory to store data even when  
 GPU
 The GPU renders images and videos. It has many cores and dedicated memory for processing graphics, making it excellent at parallel processing. Popular GPU brands are NVIDIA, AMD and Intel.
 
-# Mother board	
+# Motherboard	
 The motherboard is like the skeleton of the PC, connecting all the "thinking" units together. Motherboards comes in three different sizes: ITX, Micro ATX and ATX. There are two main motherboard brands based on CPU brand: AMD and Intel withs specific socket types. Case sizes come in sizes corresponding to the motherboard form factors, suchas micr-ATX, ATX and E-ATX.
  
-# The OS
+# OS
 Okay we have the hardware ready. How does it go into becoming the software?
 1.	PSU powers the motherboard: The Power Supply Unit sends a steady electrical current across the motherboard circuits.
 2.	BIOS/UEFI wakes up: This electricity activates a permanent flash memory chip containing the computer's very first software instructions.
@@ -73,11 +71,6 @@ Once computer loaded you might run script. This is what happens:
  
 
  
-# Internally in RAM (The Organization)
-As the script runs, Python organises RAM into two main areas: 
-•	The Heap: This is where the actual "objects" (numbers, strings, lists) live. If you create x = 10, an object for the number 10 is created here.
-•	The Stack: This stores "pointers" or memory addresses—think of them as GPS coordinates—that tell the CPU exactly where in the Heap to find your data. 
-A memory address is a unique numeric identifier for a specific location in your computer's RAM. 
-Think of RAM as a massive apartment complex; the memory address is the specific room number where an object lives. 
+
 
  

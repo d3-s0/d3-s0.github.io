@@ -5,10 +5,8 @@ date:   2026-09-05 20:00:00 +0100
 categories: jekyll update
 ---
 
-# Data Science workflow
-
-Data science workflow
 The modern age is the time of Big Data. Data science is processing the data into evidence-based conclusions using data. 
+
 # Step 1: Problem
 1.	What problem are you trying to solve? 
 2.	Who is your audience?
