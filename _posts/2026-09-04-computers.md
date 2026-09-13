@@ -57,20 +57,5 @@ Okay we have the hardware ready. How does it go into becoming the software?
 11.	GPU renders graphics: The CPU hands visual tasks to the Graphics Processing Unit to display images on your screen.
 12.	System manages future apps: When you open a new app, the OS fetches it from the SSD, places it in RAM, and tells the CPU to execute it
 Once computer loaded you might run script. This is what happens:
-1.	Script loads into RAM: The OS locates your script file on the SSD/HDD and copies the text code into the RAM.
-2.	Interpreter or Compiler activates: The OS launches a specific software tool (like the Python interpreter or a C++ compiler) to handle your script.
-3.	Code is checked for syntax: This tool reads your script text to ensure there are no formatting mistakes or spelling errors.
-4.	Text translates to Machine Code: The tool translates your high-level language (like print("Hello")) into binary machine code consisting entirely of 1s and 0s.
-5.	Instructions enter CPU cache: The OS pushes these binary instructions from the RAM into the ultra-fast, internal cache memory of the CPU.
-6.	CPU fetches the instruction: The CPU Control Unit grabs the first binary instruction from the cache.
-7.	CPU decodes the binary: The CPU breaks down the 1s and 0s to identify exactly what operation needs to be performed (such as adding numbers or moving data).
-8.	ALU executes the calculation: The Arithmetic Logic Unit (ALU) inside the CPU processes the mathematical calculation or logic operation.
-9.	Registers store instant results: The CPU saves the immediate, tiny output of that calculation into its internal, hyper-fast storage slots called Registers.
-10.	Results write back to RAM: The CPU sends the final calculated data back out to the RAM so the Operating System can use it.
-11.	OS outputs the result: The OS takes that data from RAM and commands the GPU to display the text output on your screen, or commands the SSD to save a new file. 
- 
-
- 
-
 
  
