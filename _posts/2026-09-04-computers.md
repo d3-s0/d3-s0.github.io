@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Computers"
+title:  "How do Computers work?"
 date:   2026-09-04 20:30:00 +0100
 categories: jekyll update
 ---
@@ -10,7 +10,6 @@ Let’s break down the computer into its fundamental components:
 * [RAM (random access memory)](#ram)
 * [Mother board](#mother-board)
 * [OS](#os)
-
 
 # CPU
 The CPU is the brain of the computer, responsible for general-purpose computing. It contains billions of transistors, which act as tiny switches representing binary data (1 and 0). The CPU performs tasks in multiple steps: 
@@ -58,4 +57,32 @@ Okay we have the hardware ready. How does it go into becoming the software?
 12.	System manages future apps: When you open a new app, the OS fetches it from the SSD, places it in RAM, and tells the CPU to execute it
 Once computer loaded you might run script. This is what happens:
 
+
+# Software
+
+
+## Databases 
+- A database is a self-describing collection of integrated records:
+- Self-describing: contains metadata
+- Integrated: contains relationships
+- Records: contain attributes
+- SQL databases are stored as specific files on your computer's hard drive or SSD. Linux: /usr/local/var/mysql/
+- Main Types:
+- Relational Databases (SQL): structured data (PostgreSQL, MySQL, SQLite)
+- Non-relational Databases (NoSQL): unstructured data
+- SQLAlchemy Components:
+- Engine: database connections
+- Session: manages conversations with database
+- Metadata: stores table definitions
+- Creating and Maintaining a Proper Database
+- SQL basic queries
+- SELECT
+- Data modification
  
+## Compiled languages
+Translate a high-level programming language to machine language that a computer can understand can be done in two ways: compile or interpret. High level languages are portable, but the machine language is custom for that CPU. A program that works for Intel CPU won’t work on ARM CPU. On the other hand, as long as we have the interpreter or compiler we need we can run our language on any CPU.
+A compiler – translates the high level into machine language of a computer. Once it’s been compiled the code can be run again and again without a need to compile. 
+ 
+## Interpreted languages
+An interpreter – analyses and executes the source code instruction by instruction as necessary. Interpreter and source are needed every time the program runs. 
+

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Data Science"
+title:  "What do data scienctists do?"
 date:   2026-09-05 20:00:00 +0100
 categories: jekyll update
 ---

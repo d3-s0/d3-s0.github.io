@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Data Visualisation"
+title:  "What plot captures my data?"
 date:   2026-09-05 20:05:00 +0100
 categories: jekyll update
 ---
 
-
-The main plots
+# The main plots
 - Table: Reading precise individual values.
 - Heatmap: Spotting patterns using colour intensity.
 - Scatter plot: Showing relationships between two variables.
@@ -17,13 +16,13 @@ The main plots
 - Stacked Vertical/Horizontal bar: Showing part-to-whole relationships over time.
 - Waterfall: Showing a running total after additions/subtractions.
 
-Tables 
+## Tables 
 Communicating to a mixed audience whose members will each look for their particular row of interest. If you need to communicate multiple different units of measure, this is also typically easier with a table than a graph
 - Tables are used when you want to put your data into an array. 
 - Tables allow you to list multiple variables in 2 dimensions. 
 - Add organisation levels to the table and avoid repeated heading text. Use bold to highlight particular columns like totals.
 
-Graphs - scatter
+## Graphs - scatter
 - Allow you to encode both x and y axis to see what relationship lies
 - You can have scatter plot with free spreads of dependant variable values
 - Dependant values restricted to whole numbers
@@ -32,7 +31,8 @@ Graphs - scatter
 - If you increase one, will the other increase steadily
 - A line of best fit shouldn’t go through abnormabilties if they can’t be explained in real world
 - Line of best fit tells the reader you have some predictive power
-Graphs - line
+
+## Graphs - line
 - Used to plot continuous data. Because the points are physically connected via the line, it implies a connection between the points that may not make sense for categorical data
 - Often, our continuous data is in some unit of time: days, months, quarters, or years
 - Slopegraphs can be useful when you have two time periods or points of comparison and want to quickly show relative increases and decreases or differences across various categories between the two data points
@@ -42,7 +42,7 @@ Graphs - bars
 - a common decision to make is whether to preserve the axis labels or eliminate the axis and instead label the data points directly. In making this decision, consider the level of specificity needed. If you want your audience to focus on big‐picture trends, think about preserving the axis but deemphasizing it by making it grey. If the specific numerical values are important, it may be better to label the data points directly. In this latter case, it’s usually best to omit the axis to avoid the inclusion of redundant information. 
 - Always consider how you want your audience to use the visual and construct it accordingly.
 
-Horizontal bar chart - go‐to graph for categorical data
+## Horizontal bar chart - go‐to graph for categorical data
 - The horizontal bar chart is especially useful if your category names are long, as the text is written from left to right, as most audiences read, making your graph legible for your audience there isn’t a natural ordering in your categories that makes sense to leverage, think about what ordering of your data will make the most sense.
 - Because of the way we typically process information—starting at top left and making z’s with our eyes across the screen or page—the structure of the horizontal bar chart is such that our eyes hit the category names before the actual data
 - Bar charts: frequency or magnitude of a categorical value. Make sure the graph actually adds something.
@@ -52,7 +52,7 @@ Horizontal bar chart - go‐to graph for categorical data
 - bar chart to focus on one at a time, or to show a starting point,
 - increases and decreases, and the resulting ending point
 
-Quality graph
+## Quality graph
 - Units
 - Axes and titles
 - Figure number and caption. Caption should fully explain data
@@ -72,7 +72,7 @@ Choosing an effective visual – secondary y
 - Every single element you add to your plot takes up cognitive load
 - Good design means audience doesn’t even notice it
 
-The Gestalt Principles of Visual Perception
+## The Gestalt Principles of Visual Perception
 - Step by step
 - Remove chart border
 - Remove gridlines
@@ -84,7 +84,7 @@ The Gestalt Principles of Visual Perception
 - Alignment
 - Focus your audience’s attention	
 
-How to direct audience attention
+## How to direct audience attention
 - Pre-attentive attributes: size, colour, position can be used to 1) direct audience attention and 2) give a visual hierarchy of elements. attention process: stimulus -> eyes -> brain your brain does most the work.
 - brain has 3 memory types for visual: iconic, short-term and long term memory iconic is tune to a set of preattnetive attributes
 - short term: max 4 chunks of visual info at a time. we don’t want audience to work to get information out or we label various data points directly (reducing load). Generally we want to form larger chunks to meet the cap of only 4 things we can handle.
@@ -112,7 +112,7 @@ pre-attentive attributes. Go further and give text and focus. Note: if you highl
 - 4. Colour - make it grey then add a single colour to draw attention. use blue!
 - 5. Focus your audience attention where you want them to pay it
 
-Think like a designer
+## Think like a designer
 Form follows function. What we want our audience to do with the data? (function) affordances
 - The design makes it obvious how the product is to be used e.g knob looks like it’s for turning
 - Accessibility and aesthetics.
@@ -122,8 +122,7 @@ Form follows function. What we want our audience to do with the data? (function)
 - Ask yourself: would eliminating this change anything? No? Take it out! Resist the temptation to keep things because they are cute or because you worked hard to create them; if they don’t support the message, they don’t serve the purpose of communication.
 - Push necessary, but non‐message‐impacting items to the background. Use your knowledge of preattentive attributes to deemphasize. Light grey works well for this.
 
-What is the story?
-Story Conflict
+## What is the story?
 - Then something happens—an event that throws things out of balance
 - “Subjective expectation meets cruel reality.”
 - The imbalance: Why is it necessary, what has changed?
@@ -147,7 +146,7 @@ Story Conflict
 - to make a decision or drive action.
 - What motivates your audience? making money, beating the competition, gaining market share, saving a resource, eliminating excess, innovating, learning a skill, or something else
 
-Story Resolution
+## Story Resolution
 - End with a call to action: make it totally clear to your audience what you want them to do with the new understanding or knowledge that you’ve imparted to them
 - Types: tie it back to the beginning – recap problem,  resulting need for action
 - Narrative structure
@@ -164,7 +163,7 @@ Story Resolution
 - Chronologically: take audience through same path we experienced it. Great if they care about process + building credibility.
 - Lead with ending: start with call to action – what audience needs to know or do. Then back up into support. Works if you already have credibility + they care about ”so what” + care less about process.
 
-Repetition
+## Repetition
 - Give a summary slide at the start with main points of story. Organise slides to be in that order. Repeat summary at the end with emphasis on actions.
 - Horizontal logic
 - Just the slide title and the story should make sense
