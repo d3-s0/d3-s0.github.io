@@ -12,35 +12,23 @@ Programs are just a sequence of instructions telling a computer what to do.
 The problem with human language is that it’s ambiguous. We only understand each other because we share a lot of common knowledge and experience.  Even then we struggle with communication.  Computer scientists circumvented this problem by making special notations for everything that can be computed – called programming languages. Every structure in programming languages has a precise form (syntax) and precise meaning (semantics). These languages are called High level programming languages because they are designed for humans. Computers though can only understand machine language and eventually in binary. There are two ways for your code to get to binary machine code (0,1)
 
 
-* [Fundamentals ](#fundamentals)
-* [Control: Conditionals and loops](#control)
-
-# Fundamentals
-- Data types
+# Data components
+### Variables
+### Constants
+### Data types
 - Types: int, floats, string, Boolean, char, null or none, 
-- Data structures
+
+Data structures
 - Lists or arrays
 - Dicts or maps
 - Sets (unique values)
-- Operators
+
+Operators
 - Arithmetic (=,+,-,)
 - Comparison (<,>)
 - Logical (and, or)
-- Variables
 
-The process of turning an expression into it’s underlying data type is evaluation.
-- Assignment operator using var=expression
-- Python will go through and clear out any unused variables – this is called garbage collection.
-- Data types - strings
-- Changing case in a string – lower(), upper()
-- Combining or concatenating strings
-- Stripping whitespace – rstrip(), lstrip(),strip()
-- Numbers
-- Integers
-- Floats
-- Control
- 
-# Control
+# Control flow
 Conditional – if, else
 - Aim: minimize the number of checks the computer performs:
 - Place the most likely case first: Put the condition most likely to be true at the top of an if/elif chain so Python can skip subsequent checks immediately.
@@ -48,9 +36,7 @@ Conditional – if, else
 - Avoid deep nesting: Use the "Guard Clause" pattern—exit early from a function if a condition isn't met—to keep code flat and avoid redundant evaluations.
 
 
-Loops (for, while)
-- Definite loop (runs fixed number of times): for loop
-- Loop index 
+### Loops (for, while)
 - Over a list of values
 - Range()  builds a sequence of numbers
 - List() makes it into a list
@@ -133,7 +119,7 @@ Classes
 - def method_name(self):
 - name = Name(7)
 
-Objects
+# Objects
 - OO approach – see complex system as a series of simpler objects. 
 - Objects contain data + operations (do stuff). Objects can refer to other objects. 
 - What is an Object?
@@ -147,13 +133,12 @@ Objects
 - When creating an object, the `__init__` method initializes instance
 - attributes, which are specific data attached to each object.
 
-# OOP
 -	Essence of design is describing a system in terms of magica black boxes and htei interfaces. Other components are users or clients of the services
 -	Black box just has to make sure the service is faithfully delivered. Separation of concern is what makes deisgn of comple sysems possible.
 -	Magic behind objects lies in class definition. Once a suitable class definition has been written we can ignore how the class works. Just rely onexternal interface – the methods. 
 -	We don’t need to know all the way to the bottom to use the class. 
 -	Most computer programs are built using OO approach – see complex system as a series of simpler objects.  Objects contain data + operations (do stuff). Objects can refer to other objects.
--	Create a new instance o a class – constructor. object_anme = Class_name(param)
+-	Create a new instance a class – constructor. object_anme = Class_name(param)
 -	To perform an operation on the object we send the object a message. Object.(method). Every object is an instance of some class. It is the class that determines what method an object will have. 
 -	We have to avoid aliasing where two variables refer to the same object. Use a clone instead. Methods that change the state of an object are called mutatrors
 -	Object oriented design

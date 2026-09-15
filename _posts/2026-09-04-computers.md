@@ -58,10 +58,7 @@ Okay we have the hardware ready. How does it go into becoming the software?
 Once computer loaded you might run script. This is what happens:
 
 
-# Software
-
-
-## Databases 
+# Databases 
 - A database is a self-describing collection of integrated records:
 - Self-describing: contains metadata
 - Integrated: contains relationships
@@ -79,6 +76,7 @@ Once computer loaded you might run script. This is what happens:
 - SELECT
 - Data modification
  
+# Programming languages
 ## Compiled languages
 Translate a high-level programming language to machine language that a computer can understand can be done in two ways: compile or interpret. High level languages are portable, but the machine language is custom for that CPU. A program that works for Intel CPU won’t work on ARM CPU. On the other hand, as long as we have the interpreter or compiler we need we can run our language on any CPU.
 A compiler – translates the high level into machine language of a computer. Once it’s been compiled the code can be run again and again without a need to compile. 
