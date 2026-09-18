@@ -5,15 +5,22 @@ date:   2026-09-04 20:31:00 +0100
 categories: jekyll update
 ---
 
-Lots of people are scared of coding. At work people walk by my screen and are too scared to look at code. They imagine the old sci-fi picture of a nerdy kid looking at 1s and 0s. This is far from the truth. Coding is much like writing. 
+The four main areas of programming:
+* [Variables](#variables)
+* [Operators](#Operators)
+* [Control flow](#control-flow)
+* [Functions](#functions)
 
+
+Lots of people are scared of coding. At work people walk by my screen and are too scared to look at code. They imagine the old sci-fi picture of a nerdy kid looking at 1s and 0s. This is far from the truth. Coding is much like writing. 
 
 Programs are just a sequence of instructions telling a computer what to do.
 The problem with human language is that it’s ambiguous. We only understand each other because we share a lot of common knowledge and experience.  Even then we struggle with communication.  Computer scientists circumvented this problem by making special notations for everything that can be computed – called programming languages. Every structure in programming languages has a precise form (syntax) and precise meaning (semantics). These languages are called High level programming languages because they are designed for humans. Computers though can only understand machine language and eventually in binary. There are two ways for your code to get to binary machine code (0,1)
 
 
-# Data components
-### Variables
+# Variables
+Holds the data
+
 ### Constants
 ### Data types
 - Types: int, floats, string, Boolean, char, null or none, 
@@ -23,7 +30,7 @@ Data structures
 - Dicts or maps
 - Sets (unique values)
 
-Operators
+# Operators
 - Arithmetic (=,+,-,)
 - Comparison (<,>)
 - Logical (and, or)
@@ -119,7 +126,10 @@ Classes
 - def method_name(self):
 - name = Name(7)
 
-# Objects
+
+# Functions
+
+## Objects
 - OO approach – see complex system as a series of simpler objects. 
 - Objects contain data + operations (do stuff). Objects can refer to other objects. 
 - What is an Object?

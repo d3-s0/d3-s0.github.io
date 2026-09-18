@@ -5,6 +5,12 @@ date:   2026-09-05 20:00:00 +0100
 categories: jekyll update
 ---
 
+1. [The problem](#step-1-problem)
+2. [Explore](#step-2-explore)
+3. [Build model](#step-3-build-model)
+4. [Evaluate model](#step-4-evaluate-model)
+5. [Visualisation](#step-5-visualisation)
+
 The modern age is the time of Big Data. Data science is processing the data into evidence-based conclusions using data. 
 
 # Step 1: Problem

@@ -6,6 +6,13 @@ categories: jekyll update
 ---
 
 # The main plots
+* [Table](#tables)
+* [Scatter graph]()
+* [Line graph]()
+* [Bar chart]()
+* [Heatmap]()
+* [Histogram]()
+
 - Table: Reading precise individual values.
 - Heatmap: Spotting patterns using colour intensity.
 - Scatter plot: Showing relationships between two variables.

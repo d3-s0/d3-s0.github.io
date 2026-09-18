@@ -6,10 +6,13 @@ categories: jekyll update
 ---
 
 Let’s break down the computer into its fundamental components:
-* [Central Processing Unit (CPU) ](#cpu)
-* [RAM (random access memory)](#ram)
-* [Mother board](#mother-board)
-* [OS](#os)
+1. [Central Processing Unit (CPU) ](#cpu)
+2. [RAM (random access memory)](#ram)
+3. [Mother board](#mother-board)
+4. [OS](#os)
+5. [Databases](#databases)
+6. [Programming languages](#programming-languages)
+
 
 # CPU
 The CPU is the brain of the computer, responsible for general-purpose computing. It contains billions of transistors, which act as tiny switches representing binary data (1 and 0). The CPU performs tasks in multiple steps: 
