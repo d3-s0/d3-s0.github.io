@@ -1,24 +1,9 @@
 ---
 layout: post
-title:  "How to lead a project successfully?"
-date:   2026-09-04 20:30:00 +0100
+title:  "How to tell a story?"
+date:   2026-09-06 20:35:00 +0100
 categories: jekyll update
 ---
-
-You can have the most effective engineer but if he doesn’t have good soft skill’s they will not deliver what is necessary. Perhaps they are talented enough but more often than not they deliver something that is not quite what the stakeholder/customer was looking for.
-
-Start Documentation
-Document pipeline architecture and dependencies.  Document failed experiments. Preserve rejected approaches. Save findings for future projects. Report successes. Report failures. Tailor communication to audience.
-
-# Project Planning
-Project Definition
-- Clearly define the business problem.
-- Document why the project is being undertaken.
-- Identify all stakeholders and their roles.
-- Review similar previous projects and lessons learned.
-- Identify reusable assets, code, models, or templates.
-
-
 
 # Writing
 We are always communicating.  The best communicators are great storytellers. Humans are hardwired to love a good story. It connects our rational and emotional sides of our brain and it sticks with us. Stories allow you to experience multiple lifetimes from different people’s perspective. Stories can be broken into:
