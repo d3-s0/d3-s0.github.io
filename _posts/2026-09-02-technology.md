@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "How modern technolgy works?"
+title:  "a very short introduction to: engineering"
 date:   2026-09-02 20:32:00 +0100
 categories: jekyll update
 ---
 
-This post is entirely inspired by the "How technology works" book. Most of the information is from this book. I highly recommend buying the book :)
+This post is inspired by the "How technology works" book. Most of the information is from that book. I highly recommend buying the book!
 
 The book is split into:
 * [Power technology]()
