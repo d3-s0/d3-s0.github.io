@@ -273,7 +273,7 @@ The main plots
 - Waterfall: Showing a running total after additions/subtractions.
 
 
-# The main plots
+## The main plots
 * [Table](#tables)
 * [Scatter graph]()
 * [Line graph]()

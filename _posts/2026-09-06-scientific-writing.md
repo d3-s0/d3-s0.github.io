@@ -12,8 +12,7 @@ categories: jekyll update
 5. [Analyse your results](#analyse-your-results)
 6. [Conclude your findings](#conclusion)
 7. [Further work](#further-work)
-
-
+ 
 Scientific writing is fundamentally based on the scientific method, which says  every question is answerable, and the answers are independent of the author. The 
 author is irrelevant; it is the knowledge and explanations themselves that are prized. As we ask questions and find answers, we add to the collective knowledge.
 
@@ -22,13 +21,11 @@ in a formulaic way. The real flair with scientific writing comes from the ``crit
  topic – where you, the writer, present your conjecture to the reader.
 
 Fellow scientists want to see critical skills in your:
-
-    Ability to analyse the results
-    Ability to arrive at conclusions that fit the data
-    Ability to think about any caveats that should be applied at the discussion stage
+- Ability to analyse the results
+- Ability to arrive at conclusions that fit the data
+- Ability to think about any caveats that should be applied at the discussion stage
 
 Understand that the scientific method is self-correcting. As you experiment and find new knowledge, it replaces older understandings. We would not be able to be self-correcting if we were not willing to be critical of older knowledge. Being critical is not negative; it is checking that the calculation is reasonable and logical.
-
 
 Observation:
     What have you observed? What is the problem?
@@ -38,7 +35,7 @@ Question:
 
 Hypothesis:
     Make an educated guess about the cause of the problem.
-m
+
 Topic title:
     Once we have formed the hypothesis we need a topic title.
     Break down the problem into separate components: command, subject, and limit.
@@ -48,7 +45,6 @@ Compare and contrast the ways in which you can gain muscle in 1 year.
     Command: compare and contrast
     Subject: ways of gaining muscle
     Limit: in 1 year
-
 
 ## Introduction
 Explain why what you are doing is worthwhile.
@@ -96,22 +92,15 @@ Does the author misrepresent other pieces of research that you are aware of?
 Are the pieces of research mentioned relevant and current?
 Are there studies missing you expected to see referenced?
 
-
 Methods used:
 Is sample size sufficient?
 Was the duration of experiment sufficient to see a difference?
 What were the control variables?
 Are there any confounding factors not mentioned?
 
-
 ## Methods
-Always explain your methods in full; do not say ``according to manufacturer’s instructions''.
-Keep track of the methods you used for the experiment or project – use a log book or slides.
-There should be enough detail to reproduce the results.
-Be concise; you do not need to state every small thing (e.g.\ every temperature and number) in the text – the data can show it.
-
-
-The text of results should describe results in a way that brings the reader to key findings.
+Always explain your methods in full; do not say ``according to manufacturer’s instructions''. Keep track of the methods you used for the experiment or project – use a log book or slides. There should be enough detail to reproduce the results.
+Be concise; you do not need to state every small thing (e.g.\ every temperature and number) in the text – the data can show it. The text of results should describe results in a way that brings the reader to key findings.
 
 ## Present your findings
 Present findings with the principle of objectivity.
@@ -124,9 +113,7 @@ Tone should be short, direct, and mostly past tense.
 Long sentences with many concepts will confuse the reader. Do not be afraid to repeat.
 Avoid using ``it'', ``they'', ``them''; these words can be ambiguous.
 
-
 We need to convey quantitative data:
-
 Guide the reader to break from the text, examine the images, then resume reading. This transition must be smooth.
 The figure needs to allow the reader to understand what procedure was carried out and what kind of output you have chosen to show.
 They should not have to refer to the main body of text to understand it – use a detailed caption.
@@ -135,16 +122,12 @@ They should not have to refer to the main body of text to understand it – use 
 ## Analyse your results
 
 This is where you interpret the results:
-
 What results surprised you? What was expected? What makes you think this?
 What parallels and contrasts exist between your findings and those published in the literature?
 
-
 Think of the report as an hourglass:
-
 Intro and discussion/conclusion are wide.
 Methods and results in the middle are narrow and focused.
-
 Bring the reader's attention back to the issues you raise (why it is important), and show how your findings contribute to that academic discussion.
 Include any shortcomings of the study – this helps readers see all the reasons contributing towards the findings.
 Remind the reader which ways worked vs not at all.

@@ -8,15 +8,15 @@ categories: jekyll update
 This post is inspired by the "How technology works" book. Most of the information is from that book. I highly recommend buying the book!
 
 The book is split into:
-* [Power technology]()
-* [Transport technology]()
-* [Materials and construction technology]()
-* [Technology in the home]()
-* [Sound and vision technology]()
-* [Computer technology]()
-* [Communication technology]()
-* [Farming and food technology]()
-* [Medical technology]()
+* [Power technology](#power-technology)
+* [Transport technology](#transport-technology)
+* [Materials and construction technology](#materials-and-construction)
+* [Technology in the home](#technologies-in-the-home)
+* [Sound and vision technology](#sound-and-vision)
+* [Computer technology](#computer-technology)
+* [Communication technology](#communications-technology)
+* [Farming and food technology](#farming-and-food-technology)
+* [Medical technology](#medical-technology)
 
 # Power technology
 - Power and energy
@@ -54,4 +54,94 @@ The book is split into:
 # Materials and construction
 - Metals
 - Working with metals
-- 
+- Concrete
+- Plastics
+- Composites
+- Recyling
+- Nanotechnology
+- 3d prints
+- Arches and domes
+- Drilling
+- Earth movers
+- Bridges
+- Tunnels
+- Skyscrapers
+- Lifts
+- Cranes
+
+# Technologies in the home
+- Utilities in the home
+- Heating
+- Microwave ovens
+- Kettles and toasters
+- Dishwashers
+- Refrigeration 
+- Vacuum cleaners
+- Toilets
+- Locks
+- Security alarms
+- Fabrics
+- Clothing
+- Washing machine
+- Digital home
+
+# Sound and vision
+- Waves
+- Microphones and loudspeakers
+- Digital sound
+- Telescopes and binoculars
+- Electric lighting
+- Lasers
+- Holograms
+- Projectors
+- Digital cameras
+- Printers and scanners
+
+# Computer technology
+- digital world
+- digital electronics
+- computers
+- keyboards and mice
+- computer software
+- AI
+- how do robots work?
+- what can robots do?
+- virtual reality
+
+# Communications technology
+- radio signals
+- radios
+- telephones
+- telecommunications networks
+- television broadcasting 
+- televisions
+- satellites
+- satellite navigation
+- internet
+- world wide web
+- email
+- Wifi
+- mobile devices
+- smart phones
+
+# Farming and food technology
+- Growing crops
+- Animal farming
+- Harvesters
+- Farming without soil
+- Precision agriculture
+- Sorting and packing
+- Food preservation
+- Food processing
+- Genetic modification
+
+# Medical technology
+- Pace makers
+- X-ray imaging
+- MRI scanner
+- Keyhole surgery
+- Prosthetic limbs
+- Brain implants
+- Genetic testing
+- Assisted fertility
+
