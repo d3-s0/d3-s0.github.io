@@ -7,7 +7,7 @@ categories: jekyll update
 
 1. [Introduce the problem](#introduction)
 2. [Research the problem](#research)
-3. [Methods – how you did the experiment](#methods)
+3. [Methods](#methods)
 4. [Present your results](#present-your-findings)
 5. [Analyse your results](#analyse-your-results)
 6. [Conclude your findings](#conclusion)

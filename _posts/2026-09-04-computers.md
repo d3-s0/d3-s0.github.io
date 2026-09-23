@@ -237,3 +237,8 @@ Classes
 -	Polymorphism
 
  
+
+
+TODO:
+- are compiled languages always faster than interpreted language
+- Why are databases are so fast and pandas not as fast?
