@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "how to write a scientific paper?"
+title:  "scientific papers"
 date:   2026-09-06 20:30:00 +0100
 categories: jekyll update
 ---

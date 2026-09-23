@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "how do computers work?"
+title:  "computers"
 date:   2026-09-04 20:30:00 +0100
 categories: jekyll update
 ---
