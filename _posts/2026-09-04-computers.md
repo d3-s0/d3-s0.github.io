@@ -5,7 +5,7 @@ date:   2026-09-04 20:30:00 +0100
 categories: jekyll update
 ---
 
-Let’s break down the computer:
+Computers can be broken into:
 1. [Central Processing Unit (CPU) ](#cpu)
 2. [RAM (random access memory)](#ram)
 3. [Mother board](#mother-board)
@@ -15,12 +15,11 @@ Other aspects:
 * [Databases](#databases)
 * [Programming languages](#programming-languages)
 
-programming can be broken into:
+Programming can be broken into:
 * [Variables](#variables)
 * [Operators](#Operators)
 * [Control flow](#control-flow)
 * [Functions](#functions)
-
 
 # CPU
 The CPU is the brain of the computer, responsible for general-purpose computing. It contains billions of transistors, which act as tiny switches representing binary data (1 and 0). The CPU performs tasks in multiple steps: 
