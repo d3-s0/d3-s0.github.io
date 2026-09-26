@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "scientific papers"
-date:   2026-09-06 20:30:00 +0100
+date:   2026-09-07 20:30:00 +0100
 categories: jekyll update
 ---
 

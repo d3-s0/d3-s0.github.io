@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "computers"
-date:   2026-09-04 20:30:00 +0100
+date:   2026-09-05 20:30:00 +0100
 categories: jekyll update
 ---
 
