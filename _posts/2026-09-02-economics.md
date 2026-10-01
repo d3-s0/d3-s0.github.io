@@ -6,10 +6,10 @@ categories: jekyll update
 ---
 Modern society runs on a mixed economy: free + government
 The players:
-- [Businesses](#business) Companies who pay wages and dividends to workers. Firms produce output.
+- [Businesses](https://d3-s0.github.io/jekyll/update/2026/09/02/business.html) Companies who pay wages and dividends to workers. Firms produce output.
 - [Households](#household) Individuals who consume goods and receive wages from firms.
 - [Government](#government) The government taxes firms and consumers, and then spend money, e.g. health care , police, defense and education. Regulations prevent monopolies and fix environmental harm
-- [Foreign sector](#foreign-sector) We sell exports abroad and buy imports. Therefore, there is a flow of money between one country and the rest of the world
+- [Abroad](#abroad) We sell exports abroad and buy imports. Therefore, there is a flow of money between one country and the rest of the world
 - [Banks](#banks)
 
 <img src="/imgs/economy.png" alt="Economy">
@@ -39,7 +39,7 @@ Banks hold money from people who have lots of money and loan it to people who ne
 
 Central Bank Oversight: Bank of England adjust base interest rates to control inflation.
 
-## Foreign sector
+## Abroad
 The rest of the world that interacts with the domestic economy through international trade and investment.
 
 - Exports (Injection): When foreign buyers purchase goods and services made in our country, money flows into our economy, acting as an injection that boosts national income
