@@ -5,9 +5,22 @@ date:   2026-09-03 01:30:00 +0100
 categories: jekyll update
 ---
 
-Economics assumes humans act rationally; sociology proves we rarely do - group dynamics, class structures, media consumption, and cognitive biases influence mass human behaviour and societal trends.
+- [Human brains](#brain)
+- [Adult development](#adult-development)
+- [Anthropology](#anthropology)
+- [Communication](#communication)
 
-## Robert keegans
+
+## Brain
+
+The brain is the center of the human experience. It dictates everything from our survival instincts to our deepest philosophical thoughts.
+- The Triune Model: To simplify how we function, think of the brain in three layers:
+    -  The reptilian brain controls survival (breathing, heart rate). 
+    - The limbic system manages emotions and memory. 
+    - The neocortex handles logic, language, and abstract thought.
+- Cognitive Biases: Our brains use mental shortcuts (heuristics) to save energy. This often results in systematic errors in thinking, like confirmation bias (only noticing things that prove you right).
+
+## Adult development
 
 Robert keegan's theory of adult development:
 - Stage 1: Impulsive Mind (Early Childhood): Driven by impulses and perceptions.
@@ -20,7 +33,13 @@ expectations to create their own internal authority, values, and sense of identi
 - Stage 5: Self-Transforming Mind (~1% of adults): Individuals can hold multiple,
 conflicting systems of meaning, recognizing the limitations of their own perspectives
 
+## Anthropology
 
+Economics assumes humans act rationally; sociology proves we rarely do - group dynamics, class structures, media consumption, and cognitive biases influence mass human behaviour and societal trends.
+
+Anthropology looks at humans at a macro level, studying how biology and culture interact over millennia.
+- Evolutionary Roots: For 99% of human history, we lived in small, egalitarian hunter-gatherer bands. Our biology, dietary needs, and social anxieties (like the deep fear of social rejection) are still hardwired for that lifestyle.
+- Culture as an Adaptation: While other animals adapt to environments using their bodies (like growing thicker fur), humans use culture (building shelters, making clothes, creating laws). Culture is our primary survival strategy.
 
 Anthropology - To understand global conflicts and alliances, you must understand what people value. Studying major world religions, cultural frameworks, and belief systems explains the underlying worldviews of different populations.
 
@@ -55,32 +74,15 @@ A number of conditions appear to enable successful transitions:
 Positive outcomes: minimise severity of distress in the crisis phase, minimise risks of quitting or extended crisis, optimising recovery time, high innovation, personal transformation, healing old wounds, ‘rejuvenated’ staff, high group morale and synergy, enable organisational transformation.
 
 
-## Thinking
-
-How to think for yourself?
-
-## Brain
-
-Your cerebrum handles thinking, memory, speech, movement, and your five senses.
-The cerebral cortex is divided into four main lobes. The Frontal Lobe (pre-frontal cortex), located at the front of the brain. It controls higher-level thinking, including decision-making, planning, problem-solving, and personality. It also contains the motor cortex, which manages voluntary movement and speech. The hippocampus (located inside the temporal lobe) is the engine for learning new information.
-
-The First Attempt: Your frontal lobe focuses intensely on the task, working hard to figure out the steps. Meanwhile, your hippocampus starts recording the new data.
-As you practice, electric signals travel between these areas. The more you repeat the action, the thicker the insulation (myelin) around these pathways becomes, making the signal travel faster.
-Eventually, the pathway becomes so strong that the skill moves into your subconscious. Your frontal lobe is freed up to focus on the next intelligent choice, and the skill becomes "second nature."
-
-
-## Communication
-
 # Communication
 
-Minding your attitude
+Humans are uniquely cooperative, and communication is the invisible glue that holds our societies together.
+- Beyond Words: Only a fraction of our communication is verbal. We rely heavily on non-verbal cues (body language, micro-expressions) and paralanguage (tone, pitch, pacing) to determine if someone is trustworthy.
+- Shared Intentionality: Humans have a unique ability to collaborate toward a common goal because we can understand what another person is thinking and feeling (Theory of Mind). We don't just communicate data; we communicate shared realities.Minding your attitude
 - focussed expectation, let go of judegements, blame or negative thoughts. You are now ready for positivity. People are drawn to positive attitudes. 
 
 Engaging with your eyes
 - eye contact indicates confidence, trust
-
-## Speaking with clarity
-
 Know what you want to say before you open your mouth, then make sure you can be understood.
 - concentrate on your consonants to make sure you communicate what you mean
 Whajado today?""What did you do today?"The tongue taps the roof of the mouth sharply for each D."I wanna go to the store.""I want to go to the store."The crisp NT and T provide rhythmic punctuation."Gimme a sec.""Give me a second."The biting V and final ND blend prevent slurring.
@@ -88,10 +90,7 @@ Whajado today?""What did you do today?"The tongue taps the roof of the mouth sha
 - highlight key words
 - speak slowly enough to be understood
 - lacing your sentences with appropriate words 
-- avoid overloading your message with too many points
-
-## Putting energy into your voice
-
+- avoid overloading your message with too many point
 Listening with willingness
 - 'Listening is the willingness to change'
 - Powerful people need to be put in environments where they aren't as powerful to change
