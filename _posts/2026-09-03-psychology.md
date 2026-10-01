@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "sociology"
+title:  "psychology"
 date:   2026-09-03 01:30:00 +0100
 categories: jekyll update
 ---
@@ -9,6 +9,7 @@ categories: jekyll update
 - [Adult development](#adult-development)
 - [Anthropology](#anthropology)
 - [Communication](#communication)
+- [Personal character](#personal-character)
 
 
 ## Brain
@@ -72,6 +73,43 @@ A number of conditions appear to enable successful transitions:
 - Transition support - briefing, monitoring issues, practical support, life~career planning, tolerance, dignity, valuing the past, time off before illness, confidential counselling, freedom/recognition for new ideas
 
 Positive outcomes: minimise severity of distress in the crisis phase, minimise risks of quitting or extended crisis, optimising recovery time, high innovation, personal transformation, healing old wounds, ‘rejuvenated’ staff, high group morale and synergy, enable organisational transformation.
+
+
+##  recognize your own biases and emotional triggers.
+
+ They judge themselves by their intentions, but they judge everyone else by their actions (a phenomenon known in psychology as the Fundamental Attribution Error).
+• Example: If they cut someone off in traffic, it’s because they are in a rush for an emergency. If someone else cuts them off, that person is just reckless and rude.
+
+
+The Search for Safety and Validation
+Almost all human conflict boils down to a threat to one of two things: safety (physical, financial, or emotional) or validation (feeling seen, respected, and important). When people act out in anger, arrogance, or jealousy, it is almost always a poorly masked defense mechanism covering up a deeper insecurity or fear.
+
+
+Humans like to think they are logical creatures who occasionally make emotional decisions. In reality, they are emotional creatures who use logic to justify decisions they already made based on how they feel.
+
+What bothers you most about other people is often a reflection of something you dislike or deny about yourself.
+
+The Concept: When someone acts poorly, our default is to label them (e.g., "they are lazy," "they are toxic"). A self-developed person seeks context instead of labels.
+
+ Reframe your thoughts from "Why are they like this?" to "I wonder what happened to them that makes this behavior feel necessary to them?"
+
+Most people react to life based on their past conditioning, acting out of old wounds rather than the present reality.
+
+ When someone lashes out at you, it is rarely actually about you. It is usually about their own stress, history, or fear.
+
+ Learn to create a gap between a stimulus (what someone says/does) and your response. If you don't absorb their emotional chaos as a personal attack, you remain in control of yourself and can respond with calm clarity.
+ 
+**The Power of Active Validation**
+You do not have to agree with someone’s perspective to validate their emotional experience.
+ 
+1. Humans have a desperate need to feel heard.
+2. Practice acknowledging their emotion first.Saying, "I can see why that made you feel overwhelmed," lowers their defenses entirely.
+
+
+
+True empathy does not mean absorbing everyone else's problems or letting people mistreat you.
+-  People who lack self-development often confuse "being nice" with "having no boundaries." This leads to hidden resentment.
+-  Clear boundaries (e.g., "I want to support you, but I can't talk about this right now") actually make you safer and more predictable to be around. It teaches people how to treat you and protects your mental energy so you can actually be present for them later.
 
 
 # Communication
@@ -143,5 +181,62 @@ You have been raised with a set of beliefs and values. The same is true for othe
 
 Unconsidered idea lacks justification. When you consider new ides you may discover solid reasons for believing in what you do. Think from another point of view.
 No one likes people who refuse to listen. 
+
+
+
+# Personal Character
+
+Internal validation. Their self-worth is entirely built on their own standards. View external compliments as pleasant weather—enjoy it when it is there, but do not let it dictate your self-worth. 
+
+Outcome independent: They are comfortable with who they are, so they do not care if people judge or reject them.  Accept that people will misjudge you, and deliberately resist the urge to over-explain or defend your choices when you know you are right.
+
+Control emotion: high-class men control their reactions. They choose how to respond to chaos rather than letting anger take over. What would the hero do? Ignore insults, but extract useful data from constructive feedback to improve your personal standards
+Ignore negative people - be a GREY ROCK. 
+
+Reacting with zero anger, anxiety or enthusiasm. Take a long pause. Go away. Write about it. Name the feeling – I am feeling X unhappy. Look from 3rd person perceptive. Challenge your thoughts – how important is it really? In 2 years? 
+
+Fix the body state– exercise, shower, walk. Write about the event to make it clear to you what actually happened. Is what they said true? If yes, why be upset. They have stated the truth. If no, inform them of the truth. Do you even respect the person? If yes, thank them for informing you and use it to improve. If no, be relieved, you must be doing something right. Humour can dispense tension in many situations.
+
+Character: Integrity, honesty, loyalty, humility, courage, self-discipline.
+
+- Connection: Family, deep friendships, community, empathy, love.
+- Growth: Curiosity, competence, health, resilience, ambition.
+- Freedom: Autonomy, adventure, creativity, financial independence.
+- Integrity: You speak the truth, even when a lie would save you from awkwardness or conflict.HealthYou protect your sleep, nutrition, and exercise, even when you feel lazy or busy.AutonomyYou say no to social invitations or projects that don't align with your goals.CourageYou raise your hand or voice your opinion in meetings, even if your heart is racing.
+- Audit your choices daily: Before making a big commitment or responding to a provocation, ask yourself: "Which of my core values does this choice support?"
+- Accept the social cost: Living by your values means you will occasionally disappoint people. If someone gets upset because you set a boundary rooted in your values, accept that discomfort as a sign of growth.
+- Measure success internally: Instead of asking, "Did they like me?" or "Did I win?", ask yourself, "Did I act with integrity?" and "Did I stand up for what I believe in?" If the answer is yes, you have already succeeded.
+- Honor: I refuse to be privy to what I deem dishonorable speech. If someone makes a bigoted, disloyal, or scurrilous remark, I will get up and leave the table.
+- Justice: I treat the weak and the powerful with the exact same measure of respect. I will not flatter the high, nor oppress the low.
+Resolution – Once my course is set by right principle, I will not waver. I mean what I say, I finish what I start, and I do not let convenience dictate my commitment.
+Courage – I will speak the truth and do what is right, even when I stand entirely alone. Fear will not negotiate my principles.
+Discipline – I do what needs to be done, when it needs to be done, whether I feel like it or not. I am the master of my impulses, not their slave.
+Magnanimity – I choose to rise above petty slights, refuse to hold grudges, and show greatness of spirit even to those who have wronged me.
+Humility & Wisdom – I do not know everything, and I am capable of being wrong. I will listen to learn, admit my mistakes instantly, and never let pride block my growth.
+Temperance – I will govern my temper and my tongue. Anger is a weakness disguised as strength; I will respond with cold logic and calm execution.
+Stewardship – My body is the vehicle of my purpose. I will fuel it cleanly, move it daily, and respect its need for recovery. A weak vessel cannot carry a strong code.
+Accountability – I am entirely responsible for my life, my health, my finances, and my reactions. I waste zero time blaming circumstances, luck, or other people.
+
+**The Dokoddo**
+1.	Accept everything just the way it is
+2.	Do not seek pleasure for its own sake
+3.	Do not, under any circumstances, depend on a partial feeling
+4.	Think lightly of yourself and deeply of the world
+5.	Be detached from desire your whole life long
+6.	Do not regret what you have done
+7.	Never be jealous
+8.	Never let yourself be saddened by a separation
+9.	Resentment and complaint are appropriate neither for oneself or others
+10.	Do not let yourself be guided by the feeling of lust or love
+11.	In all things have no preferences
+12.	Be indifferent to where you live
+13.	Do not pursue the taste of good food
+14.	Do not hold on to possessions you no longer need
+15.	Do not act following customary beliefs
+16.	Do not collect weapons or practice with weapons beyond what is useful
+17.	Do not fear death
+18.	Do not seek to possess either goods or fiefs for your old age
+19.	You may abandon your own body, but you must preserve your honour
+20.	Never stray from the Way
 
 

@@ -15,7 +15,7 @@ Other aspects:
 * [Databases](#databases)
 * [Programming languages](#programming-languages)
 
-Programming can be broken into:
+Programming lanugages can be broken into:
 * [Variables](#variables)
 * [Operators](#Operators)
 * [Control flow](#control-flow)

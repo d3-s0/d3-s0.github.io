@@ -11,6 +11,10 @@ categories: jekyll update
 4. [Evaluate model](#step-4-evaluate-model)
 5. [Visualisation](#step-5-visualisation)
 
+Projects
+- [Projects](#projects)
+
+
 The modern age is the time of Big Data. Data science is processing the data into evidence-based conclusions using data. 
 
 # Step 1: Problem
@@ -460,6 +464,4 @@ Form follows function. What we want our audience to do with the data? (function)
 
  
 
-
-
-
+# Projects
