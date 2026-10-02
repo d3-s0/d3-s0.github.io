@@ -14,7 +14,7 @@ The players:
 - [Banks](#banks): hold and lend money.
 
 Theory
-- [Macroeconomics](#macroeconomics)
+- [Macroeconomics](#macro-economics)
 
 <img src="/imgs/economy.png" alt="Economy">
 source: https://www.economicshelp.org/blog/388/economics/circular-flow-of-income-diagram/
