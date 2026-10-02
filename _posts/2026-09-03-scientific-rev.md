@@ -1,10 +1,14 @@
 ---
 layout: post
-title:  "scientific papers"
-date:   2026-09-07 20:30:00 +0100
+title:  "scientific revolution"
+date:   2026-09-03 20:30:00 +0100
 categories: jekyll update
 ---
 
+# Scientific revolution
+The Scientific Revolution (1500-1700) when empirical observation and experimentation replaced religious beliefs.
+
+# Scientific Writing
 1. [Introduce the problem](#introduction)
 2. [Research the problem](#research)
 3. [Methods](#methods)
@@ -168,5 +172,6 @@ Do not say In this essay, I have\ldots.
 Acknowledge complexity of the issue with mention of alternative scenarios.
 Usually, the next step is to recommend further work, but go beyond this basic level.
 Be specific: what type of work is needed? Would a larger sample help statistical interpretation? Would a better control be useful? Do two designs need adjusting to be compatible?
+
 
 

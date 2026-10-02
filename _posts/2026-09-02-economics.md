@@ -7,7 +7,7 @@ categories: jekyll update
 
 Modern society runs on a mixed economy: free + government
 The players:
-- [Businesses](https://d3-s0.github.io/jekyll/update/2026/09/02/business.html) Companies who pay wages and dividends to workers. Firms produce output.
+- [Businesses](#business) Companies who pay wages and dividends to workers. Firms produce output.
 - [Households](#household) Individuals who consume goods and receive wages from firms.
 - [Government](#government) The government taxes firms and consumers, and then spend money, e.g. health care , police, defense and education. Regulations prevent monopolies and fix environmental harm
 - [Abroad](#abroad) We sell exports abroad and buy imports. Therefore, there is a flow of money between one country and the rest of the world
@@ -49,5 +49,112 @@ The rest of the world that interacts with the domestic economy through internati
 
 - The UK sells things abroad (exports) like financial services or cars, and buys things from abroad (imports) like food, electronics, and oil.
 - The UK imports a lot of its energy (like gas). When global events cause world energy prices to spike, money flows quickly out of the UK economy to foreign countries, making things more expensive for everyone back home.
+
+
+
+# Business
+
+How do you start a business:
+- [Before you start](#before-you-start)
+- [First steps](#first-steps)
+- [Getting going](#getting-going)
+- [Running your business](#running-your-business)
+- [Growing your business](#growing-your-business)
+
+### Before you start
+- Making the big leap
+- Why you? Why now?
+- Coming up with your idea
+- Offering products or services
+- Finding the gap in the market
+- Standing out from the crowd
+- Defining your goals
+- Choosing a structure
+- Setting up a franchise
+- Other business types
+- Choosing a business model 
+- Creating a strategy
+- Knowing your market
+- Identifying your customers
+- Assessing demand for your business
+- Sourcing products and supplies
+- Outsourcing tasks
+- Striking a work-life balance
+
+### First steps
+- Choosing a name
+- Developing your brand
+- Telling your story
+- A marketting mix
+- Selling process
+- Online selling
+- Providing a service
+- Taking payments
+- Fulfilling your orders
+- Identifying initial costs
+- How much do you need to spend?
+- Funding your business
+- Who might invest?
+- Pitching for investment
+- Balancing the books
+- Business tax
+- Protecting your business
+- Thinking green
+- Operating ethically
+- Writing your business plan
+- Writing an action plan
+- Understanding consumer rights
+
+
+### Getting going
+- atracting website traffic
+- data protection
+- finding talent
+- recruiting staff
+- do you need a manager?
+- diverstiy and inclusion
+- customer data system
+- preparing for launch
+- spreading the word
+- creating a buzz
+- advertising
+- making the most of social media
+- networking to build your business
+
+### Running your business
+- encouraging customer loyalty
+- building customer relationships
+- working with other businesses
+- is your marketting leading to sales?
+- analysing business performance
+- maintaining momentum
+- managing your finances
+- managing budgets and cashflow
+- establishing culture
+- managing the business
+- managing a team
+- retaining talent
+- running a sales team
+- establishing a healthy workplace
+- managing and resolving conflict
+- managing staff performance
+- streamlining business processes
+- managing your supply chain
+- improving a business
+- preparing for a business crisis
+- harnessing technology
+
+
+### Growing your business
+- expanding
+- growth strategies
+- financing growth
+- attracting new business
+- retaining your customers
+- changing your direction
+- managing change
+- licensing
+- selling your business
+- moving on
 
 
