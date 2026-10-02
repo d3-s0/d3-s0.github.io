@@ -4,13 +4,14 @@ title:  "economics"
 date:   2026-09-02 01:30:00 +0100
 categories: jekyll update
 ---
+
 Modern society runs on a mixed economy: free + government
 The players:
 - [Businesses](https://d3-s0.github.io/jekyll/update/2026/09/02/business.html) Companies who pay wages and dividends to workers. Firms produce output.
 - [Households](#household) Individuals who consume goods and receive wages from firms.
 - [Government](#government) The government taxes firms and consumers, and then spend money, e.g. health care , police, defense and education. Regulations prevent monopolies and fix environmental harm
 - [Abroad](#abroad) We sell exports abroad and buy imports. Therefore, there is a flow of money between one country and the rest of the world
-- [Banks](#banks)
+- [Banks](#banks): hold and lend money.
 
 <img src="/imgs/economy.png" alt="Economy">
 source: https://www.economicshelp.org/blog/388/economics/circular-flow-of-income-diagram/

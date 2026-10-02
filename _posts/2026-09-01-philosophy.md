@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  "psychology"
-date:   2026-09-03 01:30:00 +0100
+title:  "philosophy"
+date:   2026-09-01 18:30:00 +0100
 categories: jekyll update
 ---
 
+- [Philsophy](#philosophy)
 - [Human brains](#brain)
 - [Adult development](#adult-development)
 - [Anthropology](#anthropology)
 - [Communication](#communication)
 - [Personal character](#personal-character)
+
 
 
 ## Brain
