@@ -11,6 +11,11 @@ categories: jekyll update
 4. [Evaluate model](#step-4-evaluate-model)
 5. [Visualisation](#step-5-visualisation)
 
+Other theory:
+[Statistics & Probability](#statistics)
+[Calculus](#calculus)
+[Optimisation](#optimisation)
+
 Projects
 - [Projects](#projects)
 
@@ -463,5 +468,91 @@ Form follows function. What we want our audience to do with the data? (function)
 - Time series plots: identify trends over time
 
  
+
+
+# Statistics
+- Descriptive Statistics: Summarizing data using measures of central tendency (mean, median, mode) and dispersion (variance, standard deviation, interquartile range).
+- Probability Theory: Understanding sample spaces, conditional probability, and Bayes' Theorem for classification and updating beliefs with new data.
+- Probability Distributions: Recognizing common distributions such as Binomial, Poisson, Normal (Gaussian), and Uniform.
+- Inferential Statistics: Using sample data to make inferences about a larger population through confidence intervals and p-values.
+- Hypothesis Testing: Conducting Z-tests, T-tests, and Chi-Square tests to validate assumptions and measure significance.
+- Modeling & Inference: Working with linear regression, generalized linear models (GLMs), maximum likelihood estimation (MLE), and the Central Limit Theore
+
+
+Collecting and analysing data. Statistics analyses the past to find insights. Probability predicts the future.
+
+Statistics looks at the collection, analysing, interpreting, and presenting of past data. The two main types of statistics are:
+- Descriptive statistics: summarise and describing the data. 
+- Inferential statistics: sample data to make inferences about larger population.
+
+Types of data
+Numeric (quantitative) vs categorical(qualitative)
+Numeric – continuous(measured) and discrete data
+Categorical – unordered and ordered/ordinal (e.g. agree, disagree)
+Numerical data – summary statistics
+
+Descriptive Statistics
+Descriptive statistics are used to organise and summarise data.
+Measures of center: mean, median, mode.
+Measures of spread: range, variance, standard deviation, interquartile range.
+Visual summaries: histograms, scatter plots, and box plots
+
+Measures of center
+Mean is sensitive to extreme data so good for symmetrical 
+Median is better for skewed data 
+Left skewed means data is on the right
+
+Inferential Statistics
+Using sample data to make accurate predictions or decisions on a larger population.
+
+# Probability
+Probability measures how likely an event is to occur, ranging from 0 to 1.
+Sample space: all possible outcomes.
+Events: one or more outcomes from the sample space.
+Basic rules: addition, multiplication, and complement laws.
+Types of events: independent (no influence), mutually exclusive (cannot happen together).
+Conditional probability and Bayes’ theorem for updating probabilities.
+Counting and Combinatorics
+Counting methods help calculate probabilities when many outcomes exist.
+Permutations: arrangements where order matters.
+Combinations: selections where order does not matter.
+Types of Probability
+Theoretical: Based on logical reasoning (e.g. a fair coin has 1⁄2 chance of heads).
+Experimental (empirical): Based on data from experiments or past events.
+Subjective: Based on opinion or belief (e.g. a fan says their team has an 80% chance to win).
+Random Variables and Distributions
+Random variables can be discrete or continuous.
+Described using probability mass (pmf) or density (pdf) functions.
+Common distributions: binomial, Poisson, uniform, exponential, and normal (Gaussian).
+Key measures: mean, variance, and standard deviation.
+
+
+# Linear algebra
+Vectors: Ordered lists of numbers that represent both magnitude and direction. 
+Matrices: Rectangular arrays of numbers used to store data or represent linear transformations. The transformation takes a vector and makes it into another vector.
+
+- Data Structures: Representing tabular data, images, text, and neural network weights as scalars, vectors, matrices, and tensors.
+- Matrix Operations: Performing addition, subtraction, transposition, dot products, and matrix multiplication.
+- Linear Transformations & Systems: Solving linear equations using matrix inverses, determinants, and row reduction.
+- Decompositions & Eigen-stuff: Applying eigenvalues, eigenvectors, Singular Value Decomposition (SVD), and Principal Component Analysis (PCA) for dimensionality reduction
+
+# Calculus
+- Differentiation: Calculating derivatives, partial derivatives, and applying the chain and product rules to understand how changes in input affect output.
+- Multivariate Calculus: Using gradients, Jacobian matrices, and Hessian matrices to optimize multi-feature functions.
+- Integration: Finding areas under curves (such as Probability Density Functions) and working with continuous probability distributions
+
+###  Differential Calculus
+Differential: rate of change: dy/dx Studies rates of change and slopes of curves through limits, derivatives, and applications like optimization and motion analysis. 
+Models dynamic systems using derivatives, solving ordinary (ODEs) and partial (PDEs) equations for real-world phenomena.
+
+###  Integral Calculus
+Integral: accumulation of quantities ∫_a^bx^2  dx
+
+# Optimisation
+- Cost/Loss Functions: Defining mathematical functions that penalize model errors.
+- Gradient Descent: Using derivatives to iteratively step toward the minimum of a cost function (learning rate, local vs. global minima).
+- Convex vs. Non-Convex Functions: Identifying whether an optimization problem guarantees a single global solution
+
+
 
 # Projects

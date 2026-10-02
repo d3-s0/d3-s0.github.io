@@ -13,6 +13,9 @@ The players:
 - [Abroad](#abroad) We sell exports abroad and buy imports. Therefore, there is a flow of money between one country and the rest of the world
 - [Banks](#banks): hold and lend money.
 
+Theory
+- [Macroeconomics](#macroeconomics)
+
 <img src="/imgs/economy.png" alt="Economy">
 source: https://www.economicshelp.org/blog/388/economics/circular-flow-of-income-diagram/
 
@@ -156,5 +159,19 @@ How do you start a business:
 - licensing
 - selling your business
 - moving on
+
+# Macro economics
+Do you prioritise government backed stability and low unemployment (Keynesian), or individual liberty and free-market efficiency (Classical)?
+
+## Classical economics
+Assumes free markets are naturally self-regulating over the long run, prices and wages are fully flexible, and government intervention is unnecessary or harmfu
+
+## Keynesian economics
+Argues that markets are not automatically self-correcting, wages and prices are "sticky" (slow to change), and active government fiscal policy (spending or tax cuts) is needed to boost low aggregate demand during recessions. Keynesian economics is generally considered "right" during severe recessions and crises. 
+
+## Monetarism economics
+Argues that economic stability depends primarily on controlling and steadying the growth of the money supply via central bank policy rather than government spending
+Monetarism is generally considered "right" for managing inflation and stable growth. Modern central banks (like the Bank of England) heavily rely on monetarist principles by raising or lowering interest rates to control the money supply and keep inflation in check.
+
 
 

@@ -12,8 +12,6 @@ categories: jekyll update
 - [Communication](#communication)
 - [Personal character](#personal-character)
 
-
-
 ## Brain
 
 The brain is the center of the human experience. It dictates everything from our survival instincts to our deepest philosophical thoughts.
@@ -35,6 +33,56 @@ think abstractly and of others.
 expectations to create their own internal authority, values, and sense of identity.
 - Stage 5: Self-Transforming Mind (~1% of adults): Individuals can hold multiple,
 conflicting systems of meaning, recognizing the limitations of their own perspectives
+
+In the socialised mind, you ask: "What do they expect of me?"
+In the self-authoring mind, you ask: "What are my core values, and does this action align with them?"
+- Audit Your Emotional Reactions: Notice when you feel angry, defensive, or overly eager to please. Ask yourself: "Is this emotion truly mine, or am I reacting based on a rule someone else gave me?"
+- Establish Your Independent Code: Write down your top 5 non-negotiable core principles in life (e.g., freedom, justice, kindness, adventure). When making major life decisions, measure the options against your list, not against what society, your peers, or your family will think.
+
+## Thinking for yourself
+How do you think?
+If you immediately open Google, Reddit, or social media the moment you have a question, you never give your own brain a chance to formulate an opinion. You are crowd-sourcing your identity.
+- Implement a "Delayed Search" Rule
+- Consume High-Quality Raw Material
+- The "Agree, Disagree, Pivot" Method: Every time you bring in an outside thought, you must actively position yourself against it. 
+    - Do you agree? If so, what unique nuance did the author miss that you can add?
+    - Do you disagree? Where is the flaw in their logic or data?
+    - Can you pivot? How does their point apply to a completely different context?
+
+- Write the First Draft in the Dark: Write your first draft completely from memory and intuition. Do not use quotes, citations, or references. This forces your unique voice, vocabulary, and structural logic to the surface. Only during the editing phase should you look up facts or external theories to anchor or challenge your ideas.
+
+
+Self-authoring in writing means you stop treating other thinkers as authorities and start treating them as peers you are having a conversation with.
+
+
+
+When we use our brains to make decisions in new settings we are learning.
+
+
+
+
+Blooms taxonomy teaches the levels of learning, where creating is the highest form. Does that mean writing new content in your own words the best form of learning something new. No - It needs to go further. You need to combine that new idea with other ideas to generate/build something entirely original/novel.
+How do you do this? Here are some techniques to practice when you learn something new:
+- **The Cross Pollination Method**: Take the new concept you just learned (Concept A) and force it to interact with a completely different hobby, industry, or concept you already know well (Concept B). E.g.:
+    - Concept A (Just learned): Bloom's Taxonomy.
+    - Concept B (Existing knowledge): Video game design.
+    - The New Creation: Designing a school curriculum where students "level up" and unlock achievements based on Bloom's tiers, turning a history class into an RPG (Role-Playing Game).
+- **The SCAMPER Framework**:
+    - Substitute: What components or rules can I swap out?
+    - Combine: Can I merge this with another tool or process?
+    - Adapt: How can this be tweaked to work in a completely different context?
+    - Modify/Magnify: What happens if I make one part of this massive or tiny?
+    - Put to another use: How would an artist, a scientist, or a chef use this?
+    - Eliminate: What is the most complex part of this? What happens if I completely remove it?
+    - Reverse: What if I flip the order or do the exact opposite of what is expected?
+- **The "Yes, And..."** Improvisation Rule: When you read a piece of information, do not just summarise it. Force yourself to extend it.
+    - Step 1 (Summary): "The author says that remote work increases employee happiness."
+    - Step 2 (The Extension): "Yes, and because happiness rises, companies will likely see a massive drop in turnover, which means HR budgets will shift away from hiring and toward long-term employee development programs."
+
+
+
+
+
 
 ## Anthropology
 
@@ -80,7 +128,7 @@ Positive outcomes: minimise severity of distress in the crisis phase, minimise r
 ##  recognize your own biases and emotional triggers.
 
  They judge themselves by their intentions, but they judge everyone else by their actions (a phenomenon known in psychology as the Fundamental Attribution Error).
-• Example: If they cut someone off in traffic, it’s because they are in a rush for an emergency. If someone else cuts them off, that person is just reckless and rude.
+- Example: If they cut someone off in traffic, it’s because they are in a rush for an emergency. If someone else cuts them off, that person is just reckless and rude.
 
 
 The Search for Safety and Validation
