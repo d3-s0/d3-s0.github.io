@@ -1,24 +1,21 @@
 ---
 layout: post
-title:  "psychology"
-date:   2000-01-04 18:30:00 +0100
+title:  "leadership"
+date:   2000-01-05 18:30:00 +0100
 categories: jekyll update
 ---
 
-- [the brain](#the-brain)
-- [culture](#culture)
-- [adult stages](#adult-devleopment)
-- [how to communicate](#how-to-communicate)
+We humans are incredibly confusing. This is my attempt to understand us. 
 
-We humans are incredibly confusing. This is my attempt to understand us.
-What motivates humans?
+## What motivates humans?
+
 **Maslow's hierachy of needs**
 At our base the main motivations are based on Maslow's hierachy of needs:
 At our base, every human is trying to climb Maslow's pyramid. However, Honor Culture and Dignity Culture provide completely different toolkits (software) to help the brain (hardware) satisfy those needs.
 1. Self actualisation: desire to become the most one can be
 2. Esteem: respect, self-esteem, freedom
 3. Love and belonging: friendship, family
-4. Safety needs: personal security, employment, resources, health, property
+4. Safety needs: personal security, employment, resources, property
 5. Physiological needs: air, water, food, shelter, sleep, clothing
 
 
@@ -33,6 +30,7 @@ At our base, every human is trying to climb Maslow's pyramid. However, Honor Cul
 - Tradition: Respect, commitment, and acceptance of the customs and ideas that traditional culture or religion provide.
 - Benevolence: Preserving and enhancing the welfare of people with whom one is in frequent personal contact.
 - Universalism: Understanding, appreciation, tolerance, and protection for the welfare of all people and nature
+
 
 **More values**
 - Connection: Family, deep friendships, community, empathy, love.
@@ -85,7 +83,12 @@ So what happened was:
 
 Because of this, Homo sapiens became the only species on Earth to escape the limits of biological evolution.
 
-our brains take so long to mature, the cultural narratives we absorb between ages 0 and 25 become our biological default settings. If your culture tells you that your "class, caste, or gender" dictates your ceiling, your prefrontal cortex actually wires itself to prune away alternative futures. The "invisible hand" is real because it is made of neural pathways forged during childhood
+our brains take so long to mature, the cultural narratives we absorb between ages 0 and 25 become our biological default settings. If your culture tells you that your "class, caste, or gender" dictates your ceiling, your prefrontal cortex actually wires itself to prune away alternative f utures. The "invisible hand" is real because it is made of neural pathways forged during childhood
+
+## culture 
+
+An honor culture where if you insult them the conflict can keep going even if logic can resolve it quickly. To those members, public honor is important and if not restored they will see that others think of them as weak. It is a zero sum game, where insults are done to improve one's standing at the cost of another. These types of cultures can go for many generations as logic and reason cannot resolve them due to the subjective nature of honor. The other form of culture is dignity culture, where members are taught that words cannot affect you, instead conflict is channelled through legal bodies(law, HR, police) to achieve retribution. Members will need a strong self-worth value to do this. The culture you are born into often also decides your access to the cultural areas you want to go to, and even how you see your own potential. This invisble hand guides most of us through life.
+
 
 ## the brain
 
@@ -95,25 +98,6 @@ to become the dominant species on earth. The brain can be split into:
 - The **limbic system** manages **emotions and memory**. 
 - The **neocortex** handles **logic, language, and abstract thought**.
 The part that makes us special is the limbic and neocortex parts. Humans have an unprecedented biological "cross-talk" between the two that creates unique superpowers.
-
-**The Frontal-Lobe Hyper-Connectivity (Our Internal Router)**
--  In a monkey, the emotional center (limbic system) triggers an immediate reaction. In a human, that emotional signal has to pass through a massive prefrontal "router." This allows us to pause, simulate the future, suppress impulsive urges, and override basic instincts based on social rules or long-term goals.
-
-
-**Micro-Architecture: Von Economo Neurons (The Social Circuit)**
-VENs are long, fast-acting cells. They act like an express train, allowing our brain to instantly process complex social cues (like a slight change in a friend's facial expression or tone of voice) and connect it to our own emotional state. This is the biological foundation for your fourth pillar: maintaining massive social groups.
-
-**Neoteny: The Brain That Refuses to Grow Up**
-A human baby is born biologically premature because its giant head wouldn't otherwise fit through the birth canal. At birth, our brains are only about 25% of their adult size. It takes nearly 25 years for a human prefrontal cortex to fully mature. This allows culture to program the hardware.
-
-## culture 
-
-An honor culture where if you insult them the conflict can keep going even if logic can resolve it quickly. To those members, public honor is important and if not restored they will see that others think of them as weak. It is a zero sum game, where insults are done to improve one's standing at the cost of another. These types of cultures can go for many generations as logic and reason cannot resolve them due to the subjective nature of honor. The other form of culture is dignity culture, where members are taught that words cannot affect you, instead conflict is channelled through legal bodies(law, HR, police) to achieve retribution. Members will need a strong self-worth value to do this.
-
-The culture you are born into often also decides your access to the cultural areas you want to go to, and even how you see your own potential. This invisble hand guides most of us through life.
-
-
-
 
 ## adult devleopment
 Robert keegan's theory of adult development tries to set out the stages of most human development:
@@ -175,23 +159,36 @@ conflict does not destroy relationships; it clears the air and revitalizes them
 4. Separate Behavior from Identity: Praise frequently. If you must criticize, focus strictly on the behavior and never the person. Never insult, disparage, or put down their character.
 
 Example:
-1. Step 1: Reflect Understanding
+1. Reflect Understanding
 Sarah: "Mark, I wanted to chat about the new tracking system. What I am hearing is that migrating to this software feels like an unnecessary administrative burden that slows down your actual engineering work. Is that accurate?"
 Mark: "Yes! It takes me twice as long to log a task, and it's distracting."
-2. Step 2: Validate & Respect
+2. Validate & Respect
 Sarah: "I understand why you feel frustrated by this change. You have a system that has successfully delivered projects here for five years, and I deeply respect how reliable your output is." (Validating his need for Tradition/Security without agreeing that the software is bad).
-3. Step 3: State Your Position (Anchored in the Relationship)
+3. State Your Position 
 Sarah: "My goal here isn't to micromanage you or create busywork. I value how smoothly your team operates. The reason I'm pushing for this is that upper management is cutting budgets based on untracked data. I want to use this data to protect our team's resources and prove how hard you all work." (Aligning their narratives so they are in the same "tribe").
-4. Step 4: Focus on Behavior & Find a Solution
+4. Focus on Behavior & Find a Solution
 Sarah: "Let’s look at the specific behavior causing the issue. If the interface is too clunky, let's customize your dashboard together so it only takes you two minutes a day. Would you be open to trying that for one week?"
 Mark: "If it only takes two minutes and protects our budget... yeah, I can try that."
 
-**Facing hard situations**
-Affective Labeling (The 3-Second Pause): When you experience an intense emotional reaction—like anger, anxiety, or the urge to procrastinate—your limbic system is attempting a hijack. Force a 3-second pause and verbally label the emotion: "I am feeling anxious about this deadline." Neurological studies show that simply naming an emotion shifts brain activity from the emotional amygdala straight to the logical prefrontal cortex.
+## leadership
 
-- Action: When you feel criticized, insulted, or rejected, implement a mandatory 10-second pause before responding. Breathe and mentally label the feeling: "This is a limbic spike. It is a false survival alarm."
-- Why: This physically forces the emotional signal to travel through your high-speed prefrontal white matter highways, shifting your response from an impulsive reaction to a logical, calculated decision.
+- model the way
+- inspire a shared vision
+- challenge the process
+- enable others to act
+- encourage the heart
 
-- Action: When resolving conflicts at work or in life, never back an emotional person into a corner. Always provide them with a clear, polite, and logical exit that lets them preserve their public honor.
-- Why: Most people operate on raw Honor templates under stress. If you threaten their standing, they will fight irrationally. If you protect their ego, you win the practical outcome.
+### model the way
+- clarify values by finding your voice and affirming shared values
+- set the example by aligning actions with shares values
 
+### inspire a shared vision
+- envision the future by imagining exciting and ennobling possibilities
+- enlist others in a common vision by appealing to shared aspirations
+
+### challenge the process
+- search for opportunities by seizing the initiative and looking outward for innovative ways to improve
+-  
+
+### enable others to act
+### encourage the heart

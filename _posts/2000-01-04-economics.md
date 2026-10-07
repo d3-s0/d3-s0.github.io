@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "economics"
-date:   2000-01-03 01:30:00 +0100
+date:   2000-01-04 01:30:00 +0100
 categories: jekyll update
 ---
 
@@ -11,7 +11,6 @@ Modern society runs on a mixed economy: free + government. The players:
 - [Government](#government) The government taxes firms and consumers, and then spend money, e.g. health care , police, defense and education. Regulations prevent monopolies and fix environmental harm
 - [Abroad](#abroad) We sell exports abroad and buy imports. Therefore, there is a flow of money between one country and the rest of the world
 - [Banks](#banks): hold and lend money.
-
 
 <img src="/imgs/economy.png" alt="Economy">
 source: https://www.economicshelp.org/blog/388/economics/circular-flow-of-income-diagram/
