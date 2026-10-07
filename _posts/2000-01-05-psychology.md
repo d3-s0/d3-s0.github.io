@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "leadership"
+title:  "psychology"
 date:   2000-01-05 18:30:00 +0100
 categories: jekyll update
 ---
@@ -84,6 +84,19 @@ So what happened was:
 Because of this, Homo sapiens became the only species on Earth to escape the limits of biological evolution.
 
 our brains take so long to mature, the cultural narratives we absorb between ages 0 and 25 become our biological default settings. If your culture tells you that your "class, caste, or gender" dictates your ceiling, your prefrontal cortex actually wires itself to prune away alternative f utures. The "invisible hand" is real because it is made of neural pathways forged during childhood
+
+## traits of high functioning
+- adaptable
+- clear communication and convincing
+- get things done
+- self aware / emotional intelligence
+- control over emotions
+- want to grow
+- show empathy
+- they don't complain
+- can simplify ideas
+- emotionally regulate
+- manage time well
 
 ## culture 
 
