@@ -8,12 +8,46 @@ categories: jekyll update
 - [the brain](#the-brain)
 - [culture](#culture)
 - [adult stages](#adult-devleopment)
-- [common life stages](#common-life-stages)
-- [core values](#core-values)
 - [how to communicate](#how-to-communicate)
 
 We humans are incredibly confusing. This is my attempt to understand us.
+What motivates humans?
+**Maslow's hierachy of needs**
+At our base the main motivations are based on Maslow's hierachy of needs:
+At our base, every human is trying to climb Maslow's pyramid. However, Honor Culture and Dignity Culture provide completely different toolkits (software) to help the brain (hardware) satisfy those needs.
+1. Self actualisation: desire to become the most one can be
+2. Esteem: respect, self-esteem, freedom
+3. Love and belonging: friendship, family
+4. Safety needs: personal security, employment, resources, health, property
+5. Physiological needs: air, water, food, shelter, sleep, clothing
 
+
+**Shalom Schwartz’s Theory of Basic Human Values**
+- Self-Direction: Independent thought and action, choosing, creating, and exploring.
+- Stimulation: Excitement, novelty, and challenge in life.
+- Hedonism: Pleasure and sensuous gratification for oneself.
+- Achievement: Personal success through demonstrating competence according to social standards.
+- Power: Social status, prestige, and control or dominance over people and resources.
+- Security: Safety, harmony, and stability of society, relationships, and self.
+- Conformity: Restriction of actions and impulses that likely upset or violate social norms.
+- Tradition: Respect, commitment, and acceptance of the customs and ideas that traditional culture or religion provide.
+- Benevolence: Preserving and enhancing the welfare of people with whom one is in frequent personal contact.
+- Universalism: Understanding, appreciation, tolerance, and protection for the welfare of all people and nature
+
+**More values**
+- Connection: Family, deep friendships, community, empathy, love.
+- Growth: Curiosity, competence, health, resilience, ambition.
+- Freedom: Autonomy, adventure, creativity, financial independence.
+- Integrity: You speak the truth, even when a lie would save you from awkwardness or 
+conflict.
+- Honor: I refuse to be privy to what I deem dishonorable speech. If someone makes a bigoted, disloyal, or scurrilous remark, I will get up and leave the table.
+- Justice: I treat the weak and the powerful with the exact same measure of respect. I will not flatter the high, nor oppress the low.
+- Resolution – Once my course is set by right principle, I will not waver. I mean what I say, I finish what I start, and I do not let convenience dictate my commitment.
+- Courage – I will speak the truth and do what is right, even when I stand entirely alone. Fear will not negotiate my principles.
+- Discipline – I do what needs to be done, when it needs to be done, whether I feel like it or not. I am the master of my impulses, not their slave.
+
+
+**human culture**
 If the brain is the hardware, culture is the software we write together to keep that hardware from crashing.  human culture is cumulative, it never resets to zero; it only builds.
 
 Culture has been our prime survival technique rather than biological evolution - through social learning and shared systems. Culture can be split into two main categories..
@@ -72,27 +106,14 @@ VENs are long, fast-acting cells. They act like an express train, allowing our b
 **Neoteny: The Brain That Refuses to Grow Up**
 A human baby is born biologically premature because its giant head wouldn't otherwise fit through the birth canal. At birth, our brains are only about 25% of their adult size. It takes nearly 25 years for a human prefrontal cortex to fully mature. This allows culture to program the hardware.
 
-## cutluee time (linear or circular) and what you value. 
+## culture 
 
 An honor culture where if you insult them the conflict can keep going even if logic can resolve it quickly. To those members, public honor is important and if not restored they will see that others think of them as weak. It is a zero sum game, where insults are done to improve one's standing at the cost of another. These types of cultures can go for many generations as logic and reason cannot resolve them due to the subjective nature of honor. The other form of culture is dignity culture, where members are taught that words cannot affect you, instead conflict is channelled through legal bodies(law, HR, police) to achieve retribution. Members will need a strong self-worth value to do this.
 
 The culture you are born into often also decides your access to the cultural areas you want to go to, and even how you see your own potential. This invisble hand guides most of us through life.
 
 
-At our base the main motivations are based on Maslow's hierachy of needs:
-At our base, every human is trying to climb Maslow's pyramid. However, Honor Culture and Dignity Culture provide completely different toolkits (software) to help the brain (hardware) satisfy those needs.
 
-⚖️ 1. Safety and Security Needs
-- Honor Culture: Historically emerged in lawless environments (like herding societies or frontier lands) where a central government or police force couldn't protect you. Because there is no external safety, reputation is your only shield. If you are perceived as weak, people will steal your property or harm your family. Therefore, aggressive retaliation to an insult isn't just pride—it is a logical survival mechanism to signal: "Do not mess with me."
-- Dignity Culture: Flourishes in societies with strong, reliable external institutions (laws, police, courts, HR departments). Because you trust a third party to secure your safety and property, your brain's prefrontal router can say: "I don't need to fight this person in the street; the legal system will handle it."
-👥 2. Love and Belonging (The Tribe)
-- Honor Culture: Your standing is entirely external and collective. It is a zero-sum game heavily reliant on public perception. If your family's or tribe's honor is stained, everyone in that group drops down the hierarchy. This triggers that deep limbic fear of social exclusion.
-- Dignity Culture: Belonging is built on individual compatibility and shared values rather than strict, unyielding tribal codes. You are allowed to walk away from a toxic group without losing your fundamental societal worth.
-🥇 3. Esteem (Self-Worth)
-- Honor Culture: Esteem is market-driven. Your worth is determined entirely by what others say about you. An insult physically strips away your esteem points and gives them to the insulter.
-- Dignity Culture: Members are taught that every human has an intrinsic, unalienable value that cannot be taken away by a mere insult. Esteem is internal. As you noted, it requires a strong internal sense of self-worth to ignore a public insult and channel the conflict through an HR department or a courtroom instead.
-
-<img src="/imgs/maslow.png" alt="Universe">
 
 ## adult devleopment
 Robert keegan's theory of adult development tries to set out the stages of most human development:
@@ -110,48 +131,12 @@ Humans move through biological and psychological transitions. Erik Erikson’s S
 - Middle Adulthood: Generativity vs. Stagnation (How can I contribute to the next generation?)
 - Late Adulthood: Ego Integrity vs. Despair (Did my life have meaning?)
 
-
-## common life stages
 <img src="/imgs/psych_life.png" alt="Universe">
 <img src="/imgs/psych_life2.png" alt="Universe">
-
-
-The main issues are during transitions of life stages:
-ssues for transition management and support
-A number of conditions appear to enable successful transitions:
-- Economic security - surplus resources, no debt, stable income, own home, low commitments, multiple-income household
-- Emotional security - supportive partner, stable childhood, support networks, openness on emotional and mental health issues
-- Health - good physical fitness, prudent lifestyle, quality time for leisure.
-- Prior transition skills - positive transition experiences, clear goals
-- Supportive work environment - high respect / low control culture, good team morale, clear role and contract terms, life work boundaries respected
-- Transition support - briefing, monitoring issues, practical support, life career planning, tolerance, dignity, valuing the past, time off before illness, confidential counselling, freedom/recognition for new ideas <br>
 For more information click [here](https://www.eoslifework.co.uk/transprac.htm)
 
 
-## core values
-Across all cultures, human values can generally be mapped to Shalom Schwartz’s Theory of Basic Human Values. He discovered 10 universal values that drive all human behavior, split across two main tensions:
-- Openness to Change vs. Conservation: This tension dictates how a human relates to new experiences versus stability and group expectations.
-- Self-Enhancement vs. Self-Transcendence: This tension dictates whether a human prioritises their own personal interests or the welfare of others.
-
-In socialised mind: Conservation is the major driver with conformity and benevolence ("in-group").
-In self-authoring mind: Self-Direction, Achievement, Power (Over one's own destiny). The self breaks free to form its own compass.
-In Self-Transcendence mind: In this rare stage, the human ego relaxes. The individual expands their circle of care from "just my tribe" (Benevolence) to "all of humanity and nature" (Universalism). They can see the value in both Conservation and Openness to Change, recognizing that a functioning world needs both tradition to keep it stable and innovation to help it grow.
-
-More values:
-- Connection: Family, deep friendships, community, empathy, love.
-- Growth: Curiosity, competence, health, resilience, ambition.
-- Freedom: Autonomy, adventure, creativity, financial independence.
-- Integrity: You speak the truth, even when a lie would save you from awkwardness or 
-conflict.
-- Honor: I refuse to be privy to what I deem dishonorable speech. If someone makes a bigoted, disloyal, or scurrilous remark, I will get up and leave the table.
-- Justice: I treat the weak and the powerful with the exact same measure of respect. I will not flatter the high, nor oppress the low.
-- Resolution – Once my course is set by right principle, I will not waver. I mean what I say, I finish what I start, and I do not let convenience dictate my commitment.
-- Courage – I will speak the truth and do what is right, even when I stand entirely alone. Fear will not negotiate my principles.
-- Discipline – I do what needs to be done, when it needs to be done, whether I feel like it or not. I am the master of my impulses, not their slave.
-
-
 ## how to communicate
-
 
 humans are deeply emotional, narrative-driven creatures. Because humans are a mix of limbic emotion and neocortex logic, communication is rarely just about exchanging data.
 - The Information Level (Neocortex - logic): The literal words, facts, and logic being used.
@@ -210,27 +195,3 @@ Affective Labeling (The 3-Second Pause): When you experience an intense emotiona
 - Action: When resolving conflicts at work or in life, never back an emotional person into a corner. Always provide them with a clear, polite, and logical exit that lets them preserve their public honor.
 - Why: Most people operate on raw Honor templates under stress. If you threaten their standing, they will fight irrationally. If you protect their ego, you win the practical outcome.
 
-## how to do public speaking
-- Remember to have a conversation with them.
-- It's about them - not you!!
-- As long as you are authentic and feel passionate about the topic you should be okay
-- "Let me tell you a story"
-- If they are losing interest, ask a question
-
-
-## Steps
-
-Hacking Your Primitive Hardware (The Biological Game)
-- Manage Social Pain Productively: Understand that professional rejection, a bad performance review, or social media exclusion triggers the exact same physical pain receptors in your brain as a physical wound. When you feel that sting, don't let your neocortex rationalize it into paranoia. Recognize it: "This is just my limbic system panicking because it thinks I'm being exiled from the tribe. I am physically safe."
-- Secure the Base of Maslow’s Pyramid First: You cannot achieve self-actualization if your nervous system is trapped in chronic fight-or-flight mode. Prioritize deep sleep, physical movement, and financial stability. These aren't just chores; they are the physical foundation that keeps your reptilian brain calm so your neocortex can think strategically.
-
-
-
- Navigating the Cultural Landscape (The Sociological Game)
-
- - Be a Dignity Actor in a Complex Economy: Modern, high-leverage industries (tech, finance, global organizations) run strictly on Dignity Culture software. If someone insults you or critiques your work, channeling that through emotional retaliation (Honor) will instantly mark you as unstable or low-value. Train your "internal router" (the prefrontal cortex) to separate your core self-worth from external outcomes. Use formal institutions (HR, legal frameworks, clear boundaries) to resolve friction.
-- Recognize Honor Dynamics in Others: While institutions are Dignity-based, many individual humans you encounter still operate on raw Honor Culture rules (especially under stress). When dealing with someone defensive, realize their ego feels it is a zero-sum game. Instead of crushing them with pure neocortical logic—which will only make them fight harder to protect their public standing—give them a "face-saving" exit. Allow them to preserve their dignity, and you will win the objective outcome.
-
-"Understand the evolutionary mismatch."
-We built a world of infinite calories, instant digital validation, global networks, and AI—but we are navigating it with a brain optimized for hunting mammoths and sitting around a campfire in groups of 150 people.
-Whenever you feel overwhelmed, confused, or anxious, remember: You are not broken. You are simply a beautifully complex biological machine adapting to a world that is moving faster than evolution ever intended.
