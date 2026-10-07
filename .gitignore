@@ -9,3 +9,4 @@ temp/*
 Gemfile
 Gemfile.lock
 .DS_Store
+venv/*

@@ -1,0 +1,209 @@
+---
+layout: post
+title:  "economics"
+date:   2000-01-03 01:30:00 +0100
+categories: jekyll update
+---
+
+Modern society runs on a mixed economy: free + government. The players:
+- [Businesses](#business) Companies who pay wages and dividends to workers. Firms produce output.
+- [Households](#household) Individuals who consume goods and receive wages from firms.
+- [Government](#government) The government taxes firms and consumers, and then spend money, e.g. health care , police, defense and education. Regulations prevent monopolies and fix environmental harm
+- [Abroad](#abroad) We sell exports abroad and buy imports. Therefore, there is a flow of money between one country and the rest of the world
+- [Banks](#banks): hold and lend money.
+
+
+<img src="/imgs/economy.png" alt="Economy">
+source: https://www.economicshelp.org/blog/388/economics/circular-flow-of-income-diagram/
+
+## Banks
+Banks hold money from people who have lots of money and loan it to people who need to borrow money. They make money from the interest.
+
+Central Bank Oversight: Bank of England adjust base interest rates to control inflation.
+
+## Household
+They provide factors of production like labor, land, and capital to businesses.
+In return, they receive wages, rent, and dividends from firms.
+They use their disposable income to buy goods and services (consumption), pay taxes to the government, and save money in financial institutions.
+The UK has about 28 million households.  Right now, UK households are feeling the squeeze. High energy bills and inflation mean families are spending a lot of their money just on essentials (food and heating), leaving less money to save or spend on fun things.
+
+What can i do on an indivual level to make sure my money is spent effectively?
+Live within your means.   
+
+
+## Government
+Geopolitics & International Relations: This is the study of how geography (mountains, oceans, borders) impacts political power and choices. It explains why countries align, why resource-rich regions face conflict, and how global superpowers interact.
+
+Political Philosophy & Governance: This covers the different ways human societies organize authority, from democracies to autocracies. It helps you understand the balance between individual liberty and state control.
+
+The invisible tracks the world runs on. Understanding international law, property rights, and global bodies (like the UN, WTO, and IMF) reveals how global cooperation and trade are enforced.
+
+The UK government is currently split into:
+- **Monetary policy**: Bank of England maintain price stability by targeting an inflation rate of 2%, primarily achieved by adjusting the benchmark interest rate
+- **Fiscal policy**: Fiscal policy is the use of government spending and taxation to affect country's economy. Income via taxes fund public spending: NHS, welfare, education, defence and infrastructure. Government steps in to break monopolies, protect consumers and ensure financial stability.
+
+
+
+
+## Abroad
+The rest of the world that interacts with the domestic economy through international trade and investment.
+
+- Exports (Injection): When foreign buyers purchase goods and services made in our country, money flows into our economy, acting as an injection that boosts national income
+
+- Imports (Leakage): When domestic households and firms buy foreign-made products, money flows out of our country, acting as a leakage or withdrawal from the domestic circular flow
+
+- The UK sells things abroad (exports) like financial services or cars, and buys things from abroad (imports) like food, electronics, and oil.
+- The UK imports a lot of its energy (like gas). When global events cause world energy prices to spike, money flows quickly out of the UK economy to foreign countries, making things more expensive for everyone back home.
+
+
+## Business
+
+How do you start a business:
+- [Before you start](#before-you-start)
+- [First steps](#first-steps)
+- [Getting going](#getting-going)
+- [Running your business](#running-your-business)
+- [Growing your business](#growing-your-business)
+
+### Before you start
+- the idea - does it:
+    - fill a gap in the market?
+    - innovate?
+    - challenge existing alternatives?
+    - stand out?
+    - meet customer expectations?
+    - offer good value?
+    - have a purpose?
+    - harness your strengths?
+    - have a growing market?
+    - scale up?
+- Offering products or services
+    - products:
+    - services:
+- Finding the gap in the market
+- Standing out from the crowd
+- Defining your goals
+    - defining purpose - mission statement, defining: what? who for? how?
+- Creating a strategy
+- Knowing your market
+- Identifying your customers
+- Assessing demand for your business
+- Sourcing products and supplies
+- Outsourcing tasks
+    - marketting
+    - customer care
+    - logistics
+    - manufacturing
+    - payroll
+    - recruitment
+    - legal and HR
+    - accounting
+    - IT
+    - website design and maintenance
+
+### First steps
+
+- Developing your brand
+    - brand is a way of communicating purpose, values 
+    - Brand Identity Prism
+- Telling your story
+    - what led you to solve the problem?
+    - what makes you excited? what evokes emotion?
+    - how would you like the customer to feel when they are with you?
+- A marketting mix
+    - Business oriented
+        - Product: 
+        - Price
+        - Promotion
+        - Place
+    - Consumer oriented
+        - Commodity
+        - Cost
+        - Communication
+        - Convenience
+- Selling process
+    1. awareness: of your business
+    2. interest: think of what problem you are helping the customer solve, and focus on that.
+    3. decision: they are thinking of making a purchase. use supportive material to remove any doubts, and help them make the decision. provide testimonials from customers. 
+    4. action: once they decide, make it easy to complete purchase.
+- Providing a service
+    -  since you are selling yourself, the relationship is important
+    - thoroughly understand client's requirements and do everything you can to make experience positive
+    - generate trust
+    - exceed expectations
+    - understand client's needs
+    - be easy to work with
+    - creating loyalty
+- Identifying initial costs
+    - to get business started there will be some intial costs
+    - preparing the premises
+    - utilities: water, elec
+    - insurance, permits, licences
+    - equipment
+    - technology and it
+    - stock
+    - marketting and branding
+    - website
+- Funding your business
+- Who might invest?
+- Pitching for investment
+- Balancing the books
+- Business tax
+- Protecting your business
+- Thinking green
+- Operating ethically
+- Writing your business plan
+- Writing an action plan
+- Understanding consumer rights
+
+
+### Getting going
+- atracting website traffic
+- data protection
+- finding talent
+- recruiting staff
+- do you need a manager?
+- diverstiy and inclusion
+- customer data system
+- preparing for launch
+- spreading the word
+- creating a buzz
+- advertising
+- making the most of social media
+- networking to build your business
+
+### Running your business
+- encouraging customer loyalty
+- building customer relationships
+- working with other businesses
+- is your marketting leading to sales?
+- analysing business performance
+- maintaining momentum
+- managing your finances
+- managing budgets and cashflow
+- establishing culture
+- managing the business
+- managing a team
+- retaining talent
+- running a sales team
+- establishing a healthy workplace
+- managing and resolving conflict
+- managing staff performance
+- streamlining business processes
+- managing your supply chain
+- improving a business
+- preparing for a business crisis
+- harnessing technology
+
+
+### Growing your business
+- expanding
+- growth strategies
+- financing growth
+- attracting new business
+- retaining your customers
+- changing your direction
+- managing change
+- licensing
+- selling your business
+- moving on
