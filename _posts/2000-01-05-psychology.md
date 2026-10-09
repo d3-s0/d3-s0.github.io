@@ -98,6 +98,61 @@ our brains take so long to mature, the cultural narratives we absorb between age
 - emotionally regulate
 - manage time well
 
+## romance
+Sternberg’s Triangular Theory of Love
+<img src="/imgs/stern_love.png" alt="Universe" style="width: 100%; height: auto; display: block">
+1. Nonlove: All three components (intimacy, passion, and commitment) are completely absent.
+2. Liking: Intimacy is present, but passion and commitment are absent (typical of close friendships).
+3. Infatuated Love: Passion is present alone, without intimacy or commitment (often felt as "love at first sight" or a crush).
+4. Empty Love: Commitment is present alone, without intimacy or passion (such as in a stagnant marriage).
+5. Romantic Love: Intimacy and passion are present, but commitment is absent (intense emotional and physical bonding without long-term plans).
+6. Companionate Love: Intimacy and commitment are present, but passion has faded (common in deep, long-term friendships or companionate marriages).
+7. Fatuous Love: Passion and commitment are present, but intimacy is absent (seen in whirlwind courtships or impulsive marriages).
+8. Consummate Love: All three components are present; this is viewed as the ideal, complete form of love, though it requires active effort to maintain over time
+
+
+
+Knapp’s relationship model
+Envisaged as a metaphor for relationships building and breaking
+down, Knapp’s staircase has five steps up as a relationship builds
+step by step—and five steps back down in the event of a couple
+breaking up. His model provides an insight into where things can
+go wrong and the different challenges that couples may face
+<img src="/imgs/knapp_rel.png" alt="Universe" style="width: 100%; height: auto; display: block">
+
+Reactive listening
+
+Taking things personally and feeling
+defensive about what a partner is
+saying is almost guaranteed to inflame
+the conversation. Instead of instantly
+denying what is being said, with replies
+such as “That’s not true” and “No, I
+don’t,” the key, according to Gottman,
+is for a person to be realistic and reflect
+on whether their own behavior may
+have been annoying. Turning the
+tables on a partner to deflect self-
+indignation, with comments along the
+lines of “At least I’m not …” or “You’re
+overreacting,” is to be avoided.
+
+Active listening
+The person should focus on
+expressing how they feel about
+a situation rather than making
+sweeping statements. When
+responding, Gottman recommends
+starting sentences with “I” instead
+of “You”—for example, “I feel you
+are not listening to me,” rather than
+“You’re not listening”—to diffuse a
+potentially volatile conversation.
+Controlling tone of voice and
+volume reinforces this conciliatory
+and constructive approach to
+resolving differences.
+
 ## culture 
 
 An honor culture where if you insult them the conflict can keep going even if logic can resolve it quickly. To those members, public honor is important and if not restored they will see that others think of them as weak. It is a zero sum game, where insults are done to improve one's standing at the cost of another. These types of cultures can go for many generations as logic and reason cannot resolve them due to the subjective nature of honor. The other form of culture is dignity culture, where members are taught that words cannot affect you, instead conflict is channelled through legal bodies(law, HR, police) to achieve retribution. Members will need a strong self-worth value to do this. The culture you are born into often also decides your access to the cultural areas you want to go to, and even how you see your own potential. This invisble hand guides most of us through life.
@@ -182,6 +237,42 @@ Sarah: "My goal here isn't to micromanage you or create busywork. I value how sm
 4. Focus on Behavior & Find a Solution
 Sarah: "Let’s look at the specific behavior causing the issue. If the interface is too clunky, let's customize your dashboard together so it only takes you two minutes a day. Would you be open to trying that for one week?"
 Mark: "If it only takes two minutes and protects our budget... yeah, I can try that."
+
+## archetypes
+king warrior magician lover archetypes
+
+King - Tyrant vs Weakling
+Boy Warrior - Bully vs Coward -> Warrior: Sadist vs Masochist
+Boy Magician - Trickster vs The dummy -> Magician: Manipulator vs Denying “innocent” one
+Boy Lover - Mama’s boy vs dreamer - > Lover: Addicted lover vs Impotent lover
+
+Tyrant:
+Weakling:
+
+Warrior
+Sadist:
+Masochist:
+
+Magician
+Manipulator:
+Denying one:
+
+Lover
+Addicted lover: constantly chasing sensory highs, lacks boundaries
+Impotent lover: depressed, disconnected from passion
+
+King: Order, blessing, fertility, and leadership
+Warrior: Discipline, Aggressive energy channeled for good
+Magician: Mastery of hidden knowledge,
+Lover: Passion, appreciation for beauty, interconnectedness
+
+Men must integrate all four archetypes.
+
+Techniques:
+1. Active imagination
+2. De-Identification (Dethroning the Ego)
+3. Evocation (Invoking the Positive Energy)
+
 
 ## leadership
 

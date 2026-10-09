@@ -65,7 +65,8 @@ How do you start a business:
 - [Growing your business](#growing-your-business)
 
 ### Before you start
-- the idea - does it:
+#### the idea
+does it:
     - fill a gap in the market?
     - innovate?
     - challenge existing alternatives?
@@ -77,7 +78,7 @@ How do you start a business:
     - have a growing market?
     - scale up?
 - Offering products or services
-    - products:
+    - products: 
     - services:
 - Finding the gap in the market
 - Standing out from the crowd
@@ -157,7 +158,6 @@ How do you start a business:
 
 
 ### Getting going
-- atracting website traffic
 - data protection
 - finding talent
 - recruiting staff
