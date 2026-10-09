@@ -77,20 +77,44 @@ does it:
     - harness your strengths?
     - have a growing market?
     - scale up?
-- Offering products or services
-    - products: 
-    - services:
+#### Offering products or services
+    - products
+        - customers can see what they are buying, helping them decide to make a purchase or not.
+        - stock needs to be replenished, which is an ongoing cost. It may also be perishable, so will mean a direct loss to the business if not sold.
+        - product need to be stored, which mean having to access suitable storage facilities, which may be costly.
+    - services
+        - services are intangible, so the customer must trust the provider will deliver a good service
+        - few services are unique, so competition can be fierce, which means it is vital to maintain a good reputation with customers
+        - a dissatisfied customer may refuse to pay after the service has been given 
+        - depending on the service, you may need to undertake regular training or acquire certification.
+        - all services take time to deliver, which makes them less scalable, especially if more people need to be recruited to deliver them, raising costs. However, extra services can be added to the offering, giving scope for growth.
+
+
+
+
 - Finding the gap in the market
+    - A gap in the market is simply a need that is not currently met.
+    - Research the market you are planning to enter and think about your own experiences
+    - what can you provide that is better?
+    - think laterally and look for needs that others have not yet identified. 
 - Standing out from the crowd
-- Defining your goals
+    - In a crowded marketplace, your business needs to stand out amongst rivals in order to attract customers and clients. This involves building and maintaining a unique competitive advantage.
+    - what will make your product/service stand out?
+    - you can offer something that is unique/new/higher quality or with superior customer service - USPs. It must be clear to customers perceive their value
+    - Go above and beyond - in order to attract and retain customers, your business must offer value and benefits they cannot get elsewhere. These are your USPs.
+    - Constantly learn about your customers to ensure you meet their needs, which can change over time. 
+    - Monitor costs and benefits of your USPs to the business to ensure profit margins are healthy
+- Defining your goals / strategy
     - defining purpose - mission statement, defining: what? who for? how?
-- Creating a strategy
-- Knowing your market
-- Identifying your customers
-- Assessing demand for your business
-- Sourcing products and supplies
+    - this is your long term view of what your business will become. To help make that vision become a reality, identify why you want to start this business and not another.
+    - what values you want to uphold? such as honesty, integrity, value for money, passion
+    - a mission statement is a written statement that clarifies the purpose of your business - what it does, who it does it for and how it does it. It should be concise, and give clear answers:
+        - who? define the products or services that your business provides
+        - who for? say who your product or service are designed for.
+        - how? explain how your customers' aspiration will be met.
+    - when developing a strategy, every aspect must align, so that what you want your business to achieve is realistic. Similarly, the customers you want to reach must be those that best meet the needs of the business. 
 - Outsourcing tasks
-    - marketting
+    - marketing
     - customer care
     - logistics
     - manufacturing
@@ -110,7 +134,12 @@ does it:
     - what led you to solve the problem?
     - what makes you excited? what evokes emotion?
     - how would you like the customer to feel when they are with you?
-- A marketting mix
+    - when people chose a product or service, their decision can be based as much on emotion as it is on logic. 
+    - if you can convey the personality of your business to your customers and clients in the form of a story, it will help you to differentiate your product or service from that of competitors, and encourage trust, loyalty and repeat business. A powerful story also makes your business more memorable. 
+    - It can take time to form a story. Begin by asking yourself, what motivated you to start your business. Perhaps it was because you could not find something you wanted to buy, so decided to make it yourself, or because you were passionate about a particular product or service, and keen to make it more widely available. 
+    - Think about your customers and clients. How would you like them to feel when they trade with you? What would you like to say about your business? Note the answers to these questions and keep reviewing them. You can then weave the elements you have compiled into a positive and convincing brand story. 
+    - Target the audience that will care!
+- A marketing mix
     - Business oriented
         - Product: 
         - Price
@@ -129,11 +158,10 @@ does it:
 - Providing a service
     -  since you are selling yourself, the relationship is important
     - thoroughly understand client's requirements and do everything you can to make experience positive
-    - generate trust
-    - exceed expectations
-    - understand client's needs
-    - be easy to work with
-    - creating loyalty
+    - how to create a successful service: maintaining a strong relationship with your clients is central to running a successful service business. Treat relationship buildng as an ongoing process - one that is essential to growing a loyal client base. Take time to understand your clients' needs. Be prepared for those needsto change and look for ways to adapt, enhance, or add to services you offer in order to keep clients interested. Most importantly, always be honest, as the relationship relies on trust. 
+    - Generating trust: your clients will trust you if you are honest about what you can and cannot do. If you are unable to offer a particular service, suggest another business that can. Both the potential client and business will remember you.
+    - Understanding clients' needs: do o 
+    - 
 - Identifying initial costs
     - to get business started there will be some intial costs
     - preparing the premises
@@ -142,16 +170,10 @@ does it:
     - equipment
     - technology and it
     - stock
-    - marketting and branding
+    - marketing and branding
     - website
-- Funding your business
-- Who might invest?
 - Pitching for investment
-- Balancing the books
-- Business tax
-- Protecting your business
-- Thinking green
-- Operating ethically
+    - aim to appear confident but not arrogant,  and professional without beign inflexible and unwilling to listen. Build a rapport by introducing yourself clearly, making eye contact and delivering a strong statement of why your business exists and why customers will buy its products or use its services. 
 - Writing your business plan
 - Writing an action plan
 - Understanding consumer rights
