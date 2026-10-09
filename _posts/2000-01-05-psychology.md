@@ -98,6 +98,10 @@ our brains take so long to mature, the cultural narratives we absorb between age
 - emotionally regulate
 - manage time well
 
+## Big 5
+
+<img src="/imgs/big_5.png" alt="Universe" style="width: 100%; height: auto; display: block">
+
 ## romance
 Sternberg’s Triangular Theory of Love
 <img src="/imgs/stern_love.png" alt="Universe" style="width: 100%; height: auto; display: block">
