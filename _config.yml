@@ -11,8 +11,8 @@ plugins:
   - jekyll-feed
 
 # Theme configurations
-minima:
-  skin: dark
+# minima:
+#   skin: dark
 
 # Silences the deprecation warnings in your terminal logs
 sass:
