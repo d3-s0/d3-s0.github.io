@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "economics"
-date:   2000-01-04 01:30:00 +0100
+date:   2000-01-03 01:30:00 +0100
 categories: jekyll update
 ---
-
-Modern society runs on a mixed economy: free + government. The players:
+Economics is the study of scarcity. You have players with unlimited wants (households, government) but limited resources (land, labor, capital). Because of this, every choice has an opportunity cost—the value of the next best alternative you had to give up to get what you wanted. Modern society runs on a mixed economy: free + government. 
+The players:
 - [Businesses](#business) Companies who pay wages and dividends to workers. Firms produce output.
 - [Households](#household) Individuals who consume goods and receive wages from firms.
 - [Government](#government) The government taxes firms and consumers, and then spend money, e.g. health care , police, defense and education. Regulations prevent monopolies and fix environmental harm
@@ -26,8 +26,8 @@ In return, they receive wages, rent, and dividends from firms.
 They use their disposable income to buy goods and services (consumption), pay taxes to the government, and save money in financial institutions.
 The UK has about 28 million households.  Right now, UK households are feeling the squeeze. High energy bills and inflation mean families are spending a lot of their money just on essentials (food and heating), leaving less money to save or spend on fun things.
 
-What can i do on an indivual level to make sure my money is spent effectively?
-Live within your means.   
+What can I do on an individual level to make sure my money is spent effectively?
+Live within your means.
 
 
 ## Government
@@ -78,20 +78,16 @@ does it:
     - have a growing market?
     - scale up?
 #### Offering products or services
-    - products
-        - customers can see what they are buying, helping them decide to make a purchase or not.
-        - stock needs to be replenished, which is an ongoing cost. It may also be perishable, so will mean a direct loss to the business if not sold.
-        - product need to be stored, which mean having to access suitable storage facilities, which may be costly.
-    - services
-        - services are intangible, so the customer must trust the provider will deliver a good service
-        - few services are unique, so competition can be fierce, which means it is vital to maintain a good reputation with customers
-        - a dissatisfied customer may refuse to pay after the service has been given 
-        - depending on the service, you may need to undertake regular training or acquire certification.
-        - all services take time to deliver, which makes them less scalable, especially if more people need to be recruited to deliver them, raising costs. However, extra services can be added to the offering, giving scope for growth.
-
-
-
-
+- products
+    - customers can see what they are buying, helping them decide to make a purchase or not.
+    - stock needs to be replenished, which is an ongoing cost. It may also be perishable, so will mean a direct loss to the business if not sold.
+    - product need to be stored, which mean having to access suitable storage facilities, which may be costly.
+- services
+    - services are intangible, so the customer must trust the provider will deliver a good service
+    - few services are unique, so competition can be fierce, which means it is vital to maintain a good reputation with customers
+    - a dissatisfied customer may refuse to pay after the service has been given 
+    - depending on the service, you may need to undertake regular training or acquire certification.
+    - all services take time to deliver, which makes them less scalable, especially if more people need to be recruited to deliver them, raising costs. However, extra services can be added to the offering, giving scope for growth.
 - Finding the gap in the market
     - A gap in the market is simply a need that is not currently met.
     - Research the market you are planning to enter and think about your own experiences
