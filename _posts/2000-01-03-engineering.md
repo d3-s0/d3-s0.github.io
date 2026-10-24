@@ -5,8 +5,6 @@ date:   2000-01-03 20:30:00 +0100
 categories: jekyll update
 ---
 
-
-
 * [engineering design process](#engineering-design-process)
 * [power & energy technology](#power-technology)
 * [transport & aerospace technology](#transport-technology)
