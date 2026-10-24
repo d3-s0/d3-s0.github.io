@@ -5,7 +5,7 @@ date:   2026-10-02 20:35:00 +0000
 categories: jekyll update
 ---
 
-Cleaning the air by Hannah Ritchie tackles 50 common arguments against climate change, providing evidence-based rebuttals and practical insights. The book aims to debunk skepticism while encouraging constructive action.
+Cleaning the air by Hannah Ritchie. Tackles 50 common arguments against climate change, providing evidence-based rebuttals and practical insights. The book aims to debunk skepticism while encouraging constructive action.
 What I appreciated most was the author’s tone of positive pragmatism. Although Ritchie acknowledges that the original 1.5C global warming target is no longer attainable, she emphasis that every effort to improve the environment still matters. The “What can you do” sections offer tangible steps, grounding the discussion in real-world possibilities.
 However, I found some answers lacked depth. A more detailed explanation starting from foundational science to present-day implications would strength the book’s arguments. Some responses felt superficial, which might leave the reader wanting more context.
 
