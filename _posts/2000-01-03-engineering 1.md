@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "engineering 1: general"
-date:   2000-01-03 00:31:00 +0100
+date:   2000-01-03 00:31:00 +0000
 categories: jekyll update
 ---
 

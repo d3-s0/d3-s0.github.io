@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "adult stages"
-date:   2026-01-02 18:30:00 +0100
+date:   2026-01-02 18:30:00 +0000
 categories: jekyll update
 ---
 
