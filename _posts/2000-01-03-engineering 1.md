@@ -13,10 +13,6 @@ categories: jekyll update
 * [sound, optics & vision systems](#sound-and-vision)
 * [communications & network infrastructure](#communications-technology)
 
-# Engineering
-
-This post is inspired by the "How technology works" book. Most of the information is from that book. I highly recommend buying the book
-
 ## Engineering design process
 
 Engineers follow a different process to the scientific inquiry called the engineers design process. 

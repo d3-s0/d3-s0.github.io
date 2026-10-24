@@ -5,7 +5,6 @@ date:   2026-09-06 20:35:00 +0000
 categories: jekyll update
 ---
 
-# Writing
 We are always communicating.  The best communicators are great storytellers. Humans are hardwired to love a good story. It connects our rational and emotional sides of our brain and it sticks with us. Stories allow you to experience multiple lifetimes from different people’s perspective. Stories can be broken into:
 - Plot
 - Characters
@@ -20,7 +19,7 @@ We are always communicating.  The best communicators are great storytellers. Hum
 - Social: Governments, laws, money, and power structures.
 - Culture and History: Religions, holidays, clothing, and past wars.
 - Daily Life: Food, technology, architecture, and language.
-- Magic: Explicit boundaries for what is scientifically or mystically possible
+- Magic laws: Explicit boundaries for what is scientifically or mystically possible
 
 ### Characters
 Characters drive the plot by making choices and feeling emotions. They let us experience different lives and understand other people. Characters take action, face problems, learn lessons and show feelings. We feel close to the characters, we want to learn the truth of people, and curious how they fix hard problems. We also love magic.
