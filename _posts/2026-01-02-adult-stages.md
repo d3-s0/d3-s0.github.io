@@ -5,7 +5,7 @@ date:   2026-01-02 18:30:00 +0000
 categories: jekyll update
 ---
 
-Humans are incredibly confusing. Robert keegan's theory of adult development tries to set out the stages of most human development:
+Humans are incredibly confusing. Robert Keegan's theory of adult development tries to set out the stages of most human development:
 - Stage 1: Impulsive Mind (Early Childhood): Driven by impulses and perceptions.
 - Stage 2: Imperial Mind (Adolescence): Ruled by personal needs, wishes, and interests; and driven by "self-sovereign" perspectives.
 - Stage 3: Socialised Mind: wants to be part of the tribe. Able to think abstractly and of others.
