@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "engineering 2a: programming"
+title:  "programming"
 date:   2000-01-03 00:33:00 +0000
 categories: jekyll update
 ---

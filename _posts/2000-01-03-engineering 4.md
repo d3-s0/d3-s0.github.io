@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "engineering 4: ai"
+title:  "ai"
 date:   2000-01-03 00:34:00 +0000
 categories: jekyll update
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "engineering 3: data science"
+title:  "data science"
 date:   2000-01-03 00:33:00 +0000
 categories: jekyll update
 ---

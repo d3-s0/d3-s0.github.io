@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "engineering 2: computers"
+title:  "computers"
 date:   2000-01-03 00:32:00 +0000
 categories: jekyll update
 ---
