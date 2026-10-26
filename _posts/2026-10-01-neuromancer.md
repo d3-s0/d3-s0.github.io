@@ -5,7 +5,7 @@ date:   2026-10-01 20:35:00 +0000
 categories: jekyll update
 ---
 
-Neuromancer by William Gibson. The book is a tough read if you don’t read often. The writer is clearly aware of how mature sci-fi is at the time so doesn’t bother to explain a lot o info about the world. Instead choosing to drop the reader in the world and make the reader form the world in their minds.
+Neuromancer by William Gibson. The book is a tough read if you don’t read often. The writer is clearly aware of how mature sci-fi is at the time so doesn’t bother to explain a lot of info about the world. Instead choosing to drop the reader in the world and make the reader form the world in their minds. It was a slog for me. It took me months to read bits here and there, but I wasn't reading a lot then so that might have played a part.
 
 Case a young computer hacker who stole from his employer was punished by his CNS
 being damaged. He makes his way to Chiba, Japan where he hopes to fix his body but

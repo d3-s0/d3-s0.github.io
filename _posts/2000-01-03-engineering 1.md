@@ -95,32 +95,6 @@ small scale renewable energy systems use free standing or roof mounted roof wind
 3. Heat exchanger
 4. Power generation
 
-### Solar energy and bio-energy
-1. Solar energy: sunlight comprises tiny energy packets called photons. When photons hit a solar panel, made of dozens of PV cells, they transfer energy to electrons that then flow via conductors through an external circuit as an electrical current.
-2. Converting current (DC->DC): An inverter converts electricity from the panel DC into AC, which is then usable by the home.
-3. Distributing power: the electricity is sent from the main panel around the home. The panel can accept electricity from the local grid when the solar panels do not meet demand.
-4. Measuring power: a smart meter keeps track of energy generation and electricity use in both directions.
-5. Connecting to the grid: Any excess electricity produced by the solar panels is sent to the power grid and credited to householder.
-
-<img src="/imgs/science/pv.png" alt="Universe" style="width: 100%; height: auto; display: block">
-
-### Batteries
-batteries are a portable store of chemical energy that can converted into electrical energy. Primary (single use) and secondary(rechargeable). 
-
-1. chemical reactions: when a battery is connected to an electric circuit, a chemical reaction makes the metal atoms lose electrons. These are attracted to and gained by a chemical paste called electrolyte.
-2. electrons gather: free electrons are drawn towards an anode, creating an imbalance with a deficit of electrons at the anode and an excess at the anode. The electrons freed by the chemical reaction move towards the anode inside the battery but cannot get any further until an eternal circuit is connected.
-3. migrating electrons: the external circuit connecting the anode and cathode provide a path along which the electrons can flow, producing an electric current. Along the way, this current can be used to power an electrical device.
-4. incoming electrons: the electrons re-enter the battery via the cathode. The flow continues until the store of chemicals is exhausted.
-
-Recharging:
-when a battery is plugged into a charger, a current is passed through in the opposite direction that was discharging. This moves electrons back to where they started, recharging the battery.
-
-Lithium ion batteries
-- large number of electrons in reactive metal lithium
-- lithium has a low weight but high energy density -> good power to weight ratio for batteries  that can withstand hundreds of discharge and recharge cycles. 
-
-<img src="/imgs/science/batt.png" alt="Universe" style="width: 100%; height: auto; display: block">
-
 ## Transport technology
 
 ### How a car works
