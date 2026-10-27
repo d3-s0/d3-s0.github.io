@@ -178,11 +178,7 @@ water is heated often using an oil or gas fired boiler, and then circulated in a
 Electricity is metered and distributed around a home by a consumer unit.
 <img src="/imgs/science/home_util.png" alt="Universe" style="width: 100%; height: auto; display: block">
 
-### Heating
 
-1. Gas and air: Air is drawn in by the fan as gas is supplied from the gas pipe to the burner. A pilot light burns, ready 
-
-<img src="/imgs/science/home_boil.png" alt="Universe" style="width: 100%; height: auto; display: block">
 
 ### Microwave ovens
 <img src="/imgs/science/home_micro.png" alt="Universe" style="width: 100%; height: auto; display: block">
