@@ -8,8 +8,6 @@ categories: jekyll update
 Artificial Intelligence (AI) is a broad field which captures anything that does tasks requiring human intelligence. Machine Learning (ML): A subfield of AI, that makes models using training data. 
 <img src="/imgs/science/ai.PNG" alt="Migration" style="width: 100%; height: auto; display: block">
 
-
-
 - Deep Learning: A subfield of ML - uses multi-layered artificial neural networks for complex data understanding. 
 - AI is the effort to automate intellectual task normally performed by humans. 
 - Ada lovelace remarked how the analytical engine could be used for whatever we know
@@ -20,6 +18,42 @@ Artificial Intelligence (AI) is a broad field which captures anything that does 
 - Machine learning deals with big data – for which classical stat analysis such as Bayesian analysis would be impractical.
 - ML is driven by empirical findings and advanced software
 - ML has little mathematical theory
+
+
+The modern age is the time of Big Data. Data science is processing the data into evidence-based conclusions using data. 
+<img src="/imgs/science/data_science.PNG" alt="Migration" style="width: 100%; height: auto; display: block">
+
+Build model
+- Start with simple baseline models.
+- Increase complexity only when justified.
+- Train models.
+- Run experiments.
+- Machine learning is creating models that learn from data. 
+- ML is applying statistical or CS methods on data to:
+- Draw casual insights 
+- Predict future events
+- Understand patterns
+
+ Evaluate model
+Assess performance metrics.
+- Categorical (Classification)
+- Confusion matrix
+- Accuracy 
+- Precision 
+- Recall
+- F-score
+- Area under curve
+- Log loss
+- Continuous (Regression) 
+- Absolute error
+- Squared error
+- Measured square error
+- Root mean square error
+- Absolute error distribution
+- Residual sum of squares
+
+
+
 
 
 Machine learning needs 3 things:
