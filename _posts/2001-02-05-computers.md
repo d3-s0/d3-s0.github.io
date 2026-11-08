@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "computers and programming"
+title:  "computers"
 date:   2001-02-05 00:32:00 +0000
 categories: jekyll update
 ---

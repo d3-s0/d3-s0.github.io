@@ -3,14 +3,16 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  d3-s0
-remote_theme: daattali/beautiful-jekyll
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
 
+
+# remote_theme: jekyll/minima
+remote_theme: daattali/beautiful-jekyll
 # Theme configurations
-# minima:
-#   skin: dark
+minima:
+  skin: dark
 
 # Silences the deprecation warnings in your terminal logs
 sass:
