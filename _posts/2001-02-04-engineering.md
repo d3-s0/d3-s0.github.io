@@ -1,17 +1,20 @@
 ---
 layout: post
-title:  "general engineering"
-date:   2000-01-03 00:31:00 +0000
+title:  "engineering"
+date:   2001-02-04 00:31:00 +0000
 categories: jekyll update
 ---
 
-* [engineering design process](#engineering-design-process)
-* [power & energy technology](#power-technology)
-* [transport & aerospace technology](#transport-technology)
-* [materials science & construction](#materials-and-construction)
-* [smart home & consumer technologies](#technologies-in-the-home)
-* [sound, optics & vision systems](#sound-and-vision)
-* [communications & network infrastructure](#communications-technology)
+Engineering applies scientific theories to design and create technology. Engineers follow the [engineering design process](#engineering-design-process) when creating new technologies.
+
+The main branches of engineering are:
+- [mechanical engineering]():
+- [civil engineering]()
+- [chemical engineering](#chemical-engineering)
+- [electrical engineering](#electrical-engineering)
+- [computer engineering](https://d3-s0.github.io/jekyll/update/2000/01/03/engineering-2.html)
+
+
 
 ## Engineering design process
 
@@ -25,7 +28,65 @@ Engineers follow a different process to the scientific inquiry called the engine
 7. Iterate to find best solution
 
 
-## Power technology
+## Mechanical Engineering
+
+### How a car works
+A car is a collection of systems that generates power in and engine and transmit it to the wheels. Other systems allow the driver to control the car by turning the wheels to change direction and by applying brake force to either slow down or stop.
+
+1. engine: internal combustion engine - starting the engine ignites the fuel and releases energy. This moves pistons, which turns the engine's crankshaft. A flywheel attached to the crankshaft smooths out the power provided by the pistons
+2. clutch: The driver must disconnect the clutch then releases clutch, allowing the engine to turn the wheel.
+3. gearbox: piston engines work most efficiently at relatively high speeds, so gears are necessary to reduce this to a slower rotational speed needed for car's wheels. Each gear gives a different range of speeds. First gear is normally selected to get car moving.
+4. driveshaft: a long driveshaft connects gearbox to rear wheels. In front wheel car, engine sits on top of the front wheels and turns them via short driveshaft, differential and half shafts.
+5. steering: rack and pinion - turning car's steering wheel rotates a pinion - small round gear. it's teeth engage the teeth on a flat bar called a rack. 
+5. braking: disc brakes - a disc is fixed to each wheel, when the wheel spins, so does the disc. When braking applied, hydraulic fluid forces brake pads, mounted on calipers to push against the disc to slow wheel down.
+
+<img src="/imgs/science/car.png" alt="Universe" style="width: 100%; height: auto; display: block">
+
+#### Internal combustion engines
+a heated fuel-air mixture (petrol and air). 
+1. intake
+2. compression
+3. power - spark plug
+4. exhaust
+
+### Electric and hybrid cars
+electric motors connected to a rechargeable battery.
+<img src="/imgs/science/electric_car.png" alt="Universe" style="width: 100%; height: auto; display: block">
+
+### Radar
+high frequency radio waves are sent out then reflected back.
+<img src="/imgs/science/radar.png" alt="Universe" style="width: 100%; height: auto; display: block">
+
+### Speed cameras
+high frequency radio waves are sent out then reflected back.
+
+### Trains
+- electric trains, use overhead cables or third rail
+<img src="/imgs/science/train.png" alt="Universe" style="width: 100%; height: auto; display: block">
+
+### Sailboats
+<img src="/imgs/science/sailboats.png" alt="Universe" style="width: 100%; height: auto; display: block">
+
+### Submarines
+<img src="/imgs/science/submarines.png" alt="Universe" style="width: 100%; height: auto; display: block">
+
+### Jet engines and rockets
+<img src="/imgs/science/jet_engine.png" alt="Universe" style="width: 100%; height: auto; display: block">
+
+### Aeroplanes
+<img src="/imgs/science/air_plane.png" alt="Universe" style="width: 100%; height: auto; display: block">
+
+### Helicopters
+<img src="/imgs/science/helicopter.png" alt="Universe" style="width: 100%; height: auto; display: block">
+
+### Drones
+<img src="/imgs/science/drones.png" alt="Universe" style="width: 100%; height: auto; display: block">
+
+### Space probes
+<img src="/imgs/science/space_probes.png" alt="Universe" style="width: 100%; height: auto; display: block">
+
+
+
 ### Water supply
 1. water intake: 
 2. coagulation
@@ -95,79 +156,9 @@ small scale renewable energy systems use free standing or roof mounted roof wind
 3. Heat exchanger
 4. Power generation
 
-## Transport technology
-
-### How a car works
-A car is a collection of systems that generates power in and engine and transmit it to the wheels. Other systems allow the driver to control the car by turning the wheels to change direction and by applying brake force to either slow down or stop.
-
-1. engine: internal combustion engine - starting the engine ignites the fuel and releases energy. This moves pistons, which turns the engine's crankshaft. A flywheel attached to the crankshaft smooths out the power provided by the pistons
-2. clutch: The driver must disconnect the clutch then releases clutch, allowing the engine to turn the wheel.
-3. gearbox: piston engines work most efficiently at relatively high speeds, so gears are necessary to reduce this to a slower rotational speed needed for car's wheels. Each gear gives a different range of speeds. First gear is normally selected to get car moving.
-4. driveshaft: a long driveshaft connects gearbox to rear wheels. In front wheel car, engine sits on top of the front wheels and turns them via short driveshaft, differential and half shafts.
-5. steering: rack and pinion - turning car's steering wheel rotates a pinion - small round gear. it's teeth engage the teeth on a flat bar called a rack. 
-5. braking: disc brakes - a disc is fixed to each wheel, when the wheel spins, so does the disc. When braking applied, hydraulic fluid forces brake pads, mounted on calipers to push against the disc to slow wheel down.
-
-<img src="/imgs/science/car.png" alt="Universe" style="width: 100%; height: auto; display: block">
-
-#### Internal combustion engines
-a heated fuel-air mixture (petrol and air). 
-1. intake
-2. compression
-3. power - spark plug
-4. exhaust
-
-### Electric and hybrid cars
-electric motors connected to a rechargeable battery.
-<img src="/imgs/science/electric_car.png" alt="Universe" style="width: 100%; height: auto; display: block">
-
-### Radar
-high frequency radio waves are sent out then reflected back.
-<img src="/imgs/science/radar.png" alt="Universe" style="width: 100%; height: auto; display: block">
-
-### Speed cameras
-high frequency radio waves are sent out then reflected back.
-
-### Trains
-- electric trains, use overhead cables or third rail
-<img src="/imgs/science/train.png" alt="Universe" style="width: 100%; height: auto; display: block">
-
-### Sailboats
-<img src="/imgs/science/sailboats.png" alt="Universe" style="width: 100%; height: auto; display: block">
-
-### Submarines
-<img src="/imgs/science/submarines.png" alt="Universe" style="width: 100%; height: auto; display: block">
-
-### Jet engines and rockets
-<img src="/imgs/science/jet_engine.png" alt="Universe" style="width: 100%; height: auto; display: block">
-
-### Aeroplanes
-<img src="/imgs/science/air_plane.png" alt="Universe" style="width: 100%; height: auto; display: block">
-
-### Helicopters
-<img src="/imgs/science/helicopter.png" alt="Universe" style="width: 100%; height: auto; display: block">
-
-### Drones
-<img src="/imgs/science/drones.png" alt="Universe" style="width: 100%; height: auto; display: block">
-
-### Space probes
-<img src="/imgs/science/space_probes.png" alt="Universe" style="width: 100%; height: auto; display: block">
-
-## Materials and construction
-
-### Plastics
-<img src="/imgs/science/plastic.png" alt="Universe" style="width: 100%; height: auto; display: block">
-
-### Composites
-<img src="/imgs/science/composites.png" alt="Universe" style="width: 100%; height: auto; display: block">
-
-### Bridges
-<img src="/imgs/science/bridges.png" alt="Universe" style="width: 100%; height: auto; display: block">
-
-### Tunnels
-<img src="/imgs/science/tunnels.png" alt="Universe" style="width: 100%; height: auto; display: block">
 
 
-## Technologies in the home
+
 ### Utilities in the home
 Utilities include power, heating, water and communications services supplied to homes. They are usually provided by external companies, although some properties may have an independent water supply or heating source.
 
@@ -194,7 +185,25 @@ Electricity is metered and distributed around a home by a consumer unit.
 <img src="/imgs/science/home_digi.png" alt="Universe" style="width: 100%; height: auto; display: block">
 
 
-## Sound and vision
+
+
+## Chemical engineering
+
+### Plastics
+<img src="/imgs/science/plastic.png" alt="Universe" style="width: 100%; height: auto; display: block">
+
+### Composites
+<img src="/imgs/science/composites.png" alt="Universe" style="width: 100%; height: auto; display: block">
+
+### Bridges
+<img src="/imgs/science/bridges.png" alt="Universe" style="width: 100%; height: auto; display: block">
+
+### Tunnels
+<img src="/imgs/science/tunnels.png" alt="Universe" style="width: 100%; height: auto; display: block">
+
+
+
+## Electrical engineering
 
 ### Waves
 <img src="/imgs/science/sound_waves.png" alt="Universe" style="width: 100%; height: auto; display: block">
@@ -208,7 +217,7 @@ Electricity is metered and distributed around a home by a consumer unit.
 ### Digital cameras
 <img src="/imgs/science/sound_camera.png" alt="Universe" style="width: 100%; height: auto; display: block">
 
-## Communications technology
+
 ### radio signals
 <img src="/imgs/science/comm_radio.png" alt="Universe" style="width: 100%; height: auto; display: block">
 

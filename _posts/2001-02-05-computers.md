@@ -1,21 +1,17 @@
 ---
 layout: post
 title:  "computers and programming"
-date:   2000-01-03 00:32:00 +0000
+date:   2001-02-05 00:32:00 +0000
 categories: jekyll update
 ---
 
-### digital world
-<img src="/imgs/science/comp_comp.png" alt="Universe" style="width: 100%; height: auto; display: block">
+At the heart of every computer is an integrated circuit called a CPU. It communicates with the computer's main memory, input devices, and output devices. 
 
-### digital electronics
 <img src="/imgs/science/comp_transis.png" alt="Universe" style="width: 100%; height: auto; display: block">
 
-### computer hardware
-<img src="/imgs/science/comp_comp2.png" alt="Universe" style="width: 100%; height: auto; display: block">
+<img src="/imgs/science/comp_comp.png" alt="Universe" style="width: 100%; height: auto; display: block">
 
-### how computers work
-At the heart of every computer is an integrated circuit called a CPU. It communicates with the computer's main memory, input devices, and output devices. 
+<img src="/imgs/science/comp_comp2.png" alt="Universe" style="width: 100%; height: auto; display: block">
 
 
 #### CPU
@@ -49,12 +45,25 @@ The GPU renders images and videos. It has many cores and dedicated memory for pr
 The motherboard is like the skeleton of the PC, connecting all the "thinking" units together. Motherboards comes in three different sizes: ITX, Micro ATX and ATX. There are two main motherboard brands based on CPU brand: AMD and Intel withs specific socket types. Case sizes come in sizes corresponding to the motherboard form factors, suchas micr-ATX, ATX and E-ATX.
  
 
+## programming
 
 Programs are just a sequence of instructions telling a computer what to do. The problem with human language is that it’s ambiguous. We only understand each other because we share a lot of common knowledge and experience. Even then we struggle with communication. Computers require clear instructions on what to do. Computer scientists circumvented this problem by making special notations for everything that can be computed – called programming languages. 
 - Every structure in programming languages has a precise form (syntax) and precise meaning (semantics). 
 - These languages are called High level programming languages because they are designed for humans. 
 - Computers though can only understand machine language and eventually in binary.
+
+**Compiled languages**
+Translate a high-level programming language to machine language that a computer can understand can be done in two ways: compile or interpret. High level languages are portable, but the machine language is custom for that CPU. A program that works for Intel CPU won’t work on ARM CPU. On the other hand, as long as we have the interpreter or compiler we need we can run our language on any CPU.
+A compiler – translates the high level into machine language of a computer. Once it’s been compiled the code can be run again and again without a need to compile. 
+ 
+**Interpreted languages**
+An interpreter – analyses and executes the source code instruction by instruction as necessary. Interpreter and source are needed every time the program runs. 
+
+Lots of people are scared of coding. At work people walk by my screen and are too scared to look at code. They imagine the old sci-fi picture of a nerdy kid looking at 1s and 0s. This is far from the truth. Coding is much like writing. 
+
+
 <img src="/imgs/science/python.PNG" alt="Migration" style="width: 100%; height: auto; display: block">
+
 
 ### Variables
 Holds the data
@@ -184,16 +193,5 @@ Classes
 -	Polymorphism
 
  
-
-
-### Compiled languages
-Translate a high-level programming language to machine language that a computer can understand can be done in two ways: compile or interpret. High level languages are portable, but the machine language is custom for that CPU. A program that works for Intel CPU won’t work on ARM CPU. On the other hand, as long as we have the interpreter or compiler we need we can run our language on any CPU.
-A compiler – translates the high level into machine language of a computer. Once it’s been compiled the code can be run again and again without a need to compile. 
- 
-### Interpreted languages
-An interpreter – analyses and executes the source code instruction by instruction as necessary. Interpreter and source are needed every time the program runs. 
-
-Lots of people are scared of coding. At work people walk by my screen and are too scared to look at code. They imagine the old sci-fi picture of a nerdy kid looking at 1s and 0s. This is far from the truth. Coding is much like writing. 
-
 
 
