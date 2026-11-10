@@ -5,15 +5,12 @@ date:   2001-02-04 00:31:00 +0000
 categories: jekyll update
 ---
 
-Engineering applies scientific theories to design and create technology. Engineers follow the [engineering design process](#engineering-design-process) when creating new technologies.
-
-The main branches of engineering are:
-- [mechanical engineering]():
-- [civil engineering]()
+Engineering applies scientific theories to design and create technology. Engineers follow the [engineering design process](#engineering-design-process) when creating new technologies. The main branches of engineering are:
+- [mechanical engineering](#mechanical-engineering):
+- [civil engineering](#civil-engineering)
 - [chemical engineering](#chemical-engineering)
 - [electrical engineering](#electrical-engineering)
 - [computer engineering](https://d3-s0.github.io/jekyll/update/2000/01/03/engineering-2.html)
-
 
 
 ## Engineering design process
@@ -187,10 +184,7 @@ Electricity is metered and distributed around a home by a consumer unit.
 
 
 
-## Chemical engineering
-
-### Plastics
-<img src="/imgs/science/plastic.png" alt="Universe" style="width: 100%; height: auto; display: block">
+## Civil Engineering
 
 ### Composites
 <img src="/imgs/science/composites.png" alt="Universe" style="width: 100%; height: auto; display: block">
@@ -202,6 +196,12 @@ Electricity is metered and distributed around a home by a consumer unit.
 <img src="/imgs/science/tunnels.png" alt="Universe" style="width: 100%; height: auto; display: block">
 
 
+
+
+## Chemical engineering
+
+### Plastics
+<img src="/imgs/science/plastic.png" alt="Universe" style="width: 100%; height: auto; display: block">
 
 ## Electrical engineering
 
