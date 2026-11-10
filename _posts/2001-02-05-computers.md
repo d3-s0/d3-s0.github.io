@@ -5,32 +5,26 @@ date:   2001-02-05 00:32:00 +0000
 categories: jekyll update
 ---
 
-- [Programming](#programming)
-- [How computers work](#how-computers-work)
-- [AI](#ai)
-
 # Programming
 Programs are just a sequence of instructions telling a computer what to do. The problem with human language is that it’s ambiguous. We only understand each other because we share a lot of common knowledge and experience. Even then we struggle with communication. Computers require clear instructions on what to do. Computer scientists circumvented this problem by making special notations for everything that can be computed – called programming languages. Every structure in programming languages has a precise form (syntax) and precise meaning (semantics). These languages are called High level programming languages because they are designed for humans.  Computers though can only understand machine language and eventually in binary.
 
-<img src="/imgs/science/python.PNG" alt="Migration" style="width: 100%; height: auto; display: block">
-
-### Variables
-Holds the data
-
-#### Data types
+### Basics - variable, types, operators
+Variables= Holds the data
+Data types
 - Types: int, floats, string, Boolean, char, null or none, 
 - Data structures
 - Lists or arrays
 - Dicts or maps
 - Sets (unique values)
 
-### Operators
+Operators
 - Arithmetic (=,+,-,)
 - Comparison (<,>)
 - Logical (and, or)
 
-### Control flow
-Conditional – if, else
+### Control - if, for, while
+
+#### Conditional – if
 - Aim: minimize the number of checks the computer performs:
 - Place the most likely case first: Put the condition most likely to be true at the top of an if/elif chain so Python can skip subsequent checks immediately.
 - Put "cheap" checks before "expensive" ones: Evaluate simple comparisons (e.g., x == 0) before complex ones like function calls or database lookups.
@@ -43,11 +37,7 @@ Conditional – if, else
 - Loops – efficient for loops
 - To make loops efficient in Python, the best strategy is often to  avoid them entirely by using built-in functions or vectorization. If you must use them, you should minimize "overhead"—the extra work Python does to look up variables and function
 
-List comprehensions are generally faster than traditional for loops with .append()because they are optimized at the C-level and use a specialized bytecode instruction (LIST_APPEND) to build the list in one go. 
-- Python's built-in functions like sum(), max(), and min() are implemented in C and are significantly faster than writing a loop to do the same calculation manually
-
-
-### Data structures
+### Data storage - lists, dicts, 
 - Lists or arrays
 - Dicts or maps
 - Sets (unique values)
@@ -62,48 +52,12 @@ List comprehensions are generally faster than traditional for loops with .append
 - Editing Dictionaries
 - Replacing a value
 
-
-
-### Conditional and Loops
-- Operators 
-- Arithmetic (=,+,-,)
-- Comparison (<,>)
-- Logical (and, or)
-- Conditionals (if, else)
-- Loops (for, while)
-- Limitations of code – adding
-- Limitations of computer doing maths. Machine ints aren’t like th emathematical integers. There are infinite integers but infite range of ints. Ints are streod in fixed range of ints in the computer. Computer memory is composed of switches – on or off (1,0). A sequence of bits can represent more possibiolties. With two bits you can do 4 presenttaions. 00,01,1,0,11. Each extra bit doubles number of patterns. 2n values. The number of bits that a particular computer uses to represent an int depends on design of CPU. Computers now adays use 32 or 64 bits. For a 32 bit CPU, 232 possible values. These values centered at 0 to rppesent a range of pos + veg values so we diivde by 2. 231. Range of integers that a 32-bit int value is -231 to 231 -1 (-1 to account ofr representation of 0 in the top half of the range)
-- What is largest number a 32-bit computer can store?
-- 231-1 = 2147483647
-- Can do up to 12 factorial, but after the representation “overflows” and results are garbage.  
-- You end up losing the last digts.
-- This allows huge or tiny numbers, but precision is limited. Only fractions made from powers of 2 (like 1/2, 1/4, 3/8) are exact; 1/10, 1/3, etc., are approximations.
-
-
-Try entering this in Python:
-- It returns False due to small rounding errors in binary representation.
-- Using a float allows us to represent a much larger range of values than a 32-bit int, but the amount o precision is still fixed. In fact, a computer stores floating point numbers a s pair of fixed-length (binary) integers. Only faractions hat involve powers of 2 can be represtnted exactly. Other fractions produce infinte repeating manissa. Close approximations. 
-- Python has. Agood soluton – python auomatically converts to repsentation using more bits. Python breaks it to down to smaller units that the hardware is able to handle. Very good features of python.
-Classes
-- A class is a blueprint for creating objects. Used to define new types e.g. Boolean, list.
-- E.g. list_ex = [1,2,3]
-- List_ex.append() etc 
-- Class Name:
-- def method_name(self):
-- name = Name()
-- name.method_name()
-- Constructors
-- Function that gets called when object is initialized
-- Class Name:
-- def __init__(self, x):
-- self.x = x access attributes/variables
-- def method_name(self):
-- name = Name(7)
-
-
 ### Functions
 
-### Objects
+Lets you repeat instructions - reusable instructions
+
+### OOP
+
 - OO approach – see complex system as a series of simpler objects. 
 - Objects contain data + operations (do stuff). Objects can refer to other objects. 
 - What is an Object?
@@ -137,6 +91,15 @@ Classes
 
 
  
+
+
+
+
+
+
+
+
+
 
 
 # How computers work
