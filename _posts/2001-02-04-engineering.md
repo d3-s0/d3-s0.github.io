@@ -5,13 +5,14 @@ date:   2001-02-04 00:31:00 +0000
 categories: jekyll update
 ---
 
-Engineering applies scientific theories to design and create technology. Engineers follow the [engineering design process](#engineering-design-process) when creating new technologies. The main branches of engineering are:
-- [mechanical engineering](#mechanical-engineering):
-- [civil engineering](#civil-engineering)
-- [chemical engineering](#chemical-engineering)
-- [electrical engineering](#electrical-engineering)
-- [computer engineering](https://d3-s0.github.io/jekyll/update/2000/01/03/engineering-2.html)
+Engineering applies scientific theories to design and create technology. Physics asks "why" things happen, while Engineers ask "how" to use those rules to build something practical. 
 
+Engineers follow the [engineering design process](#engineering-design-process) when creating new technologies. The main branches of engineering are:
+- [mechanical engineering](#mechanical-engineering): Designs and builds machines.
+- [civil engineering](#civil-engineering): Designs and builds infrastructure like bridges and roads.
+- [chemical engineering](#chemical-engineering): Designs and builds products like fuels, plastics, and medicines.
+- [electrical engineering](#electrical-engineering): Designs and builds electrical systems.
+- [computer engineering](https://d3-s0.github.io/jekyll/update/2000/01/03/engineering-2.html): Builds computer hardware, and software.
 
 ## Engineering design process
 
