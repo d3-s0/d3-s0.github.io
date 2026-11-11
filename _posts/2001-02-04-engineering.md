@@ -12,7 +12,7 @@ Engineers follow the [engineering design process](#engineering-design-process) w
 - [civil engineering](#civil-engineering): Designs and builds infrastructure like bridges and roads.
 - [chemical engineering](#chemical-engineering): Designs and builds products like fuels, plastics, and medicines.
 - [electrical engineering](#electrical-engineering): Designs and builds electrical systems.
-- [computer engineering](https://d3-s0.github.io/jekyll/update/2000/01/03/engineering-2.html): Builds computer hardware, and software.
+- [computer engineering](https://d3-s0.github.io/jekyll/update/2000/01/03/engineering-2.html): Designs and builds computer hardware, and software.
 
 ## Engineering design process
 
