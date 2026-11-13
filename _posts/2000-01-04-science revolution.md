@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "europe and science revolution (1500-1800)"
+title:  "science revolution (1500-1800)"
 date:   2000-01-04 00:34:00 +0000
 categories: jekyll update
 ---
@@ -87,3 +87,12 @@ industrial revolution created a demand for more workers so women began taking jo
 suffragists campaigned for right to vote for women
 1893, NZ became first country to grant women right to vote. 1928, britain also joined and women could vote.
 <img src="/imgs/women_movement.PNG" alt="Migration" style="width: 100%; height: auto; display: block">
+
+
+### french rev
+1789 due to a combination of severe financial crisis, social inequality, and Enlightenment ideas, and it ended in 1799 when Napoleon Bonaparte seized power, triggering decades of European wars and political swings before France established a lasting democracy.
+
+* The rise of Napoleon (1799–1815): Exhausted by years of terror, corruption, and economic chaos, France welcomed General Napoleon Bonaparte when he overthrew the government in 1799. He stabilised the economy and created a unified legal system (the Napoleonic Code), but he also crowned himself Emperor in 1804 and plunged Europe into the Napoleonic Wars.
+* Return of the monarchy (1814–1848): After Napoleon was defeated at Waterloo in 1815, European powers restored the French monarchy under Louis XVIII. However, the new kings could not fully erase the revolution's reforms, and public unrest led to smaller revolutions in 1830 and 1848.
+* Political back-and-forth (1848–1870): Following the 1848 revolution, France briefly became a republic again and elected Napoleon's nephew, Louis-Napoléon, as president. He soon copied his uncle, staging a coup in 1851 and ruling as Emperor Napoleon III until France lost a war with Prussia in 1870.
+* A lasting republic (1870–present): After the fall of Napoleon III, France established the Third Republic, which finally cemented democratic institutions, civil liberties, and universal male suffrage.

@@ -20,6 +20,11 @@ spain, france, england. norman conquest, william of normandy took over england 1
 
 Crusades were military expeditions to control of holy land of Jerusalem from Muslims. Pope Urban II called for Christians to free Jerusalem. Pope wanted the power and stop Muslims in the Jerusalem. First Crusades, 1096, lost a lot of people getting there. French reached and massacred muslims in 1099. Further crusades went back and forth 9 in total. The 1204 Sack of Constantinople: During the Fourth Crusade, Western European crusaders attacked, pillaged, and occupied the capital of the Byzantine Empire. Crusades made split between eastern and western christainty more permament.
 
+
+
+
+
+
 #### central americas
 <img src="/imgs/history/med_america.PNG" alt="Earth" style="width: 100%; height: auto; display: block">
 Central america, mexico mayans civilisation created large temple pyramids. they made chocolate! In 1325, aztecs worshipped Sun god with human sacrifices of other tribes. In 1519, spanish conquistador arrived and helped the other tribes + spanish diseases made aztecs lose. Thus Mexico city was built. Incas, south america 12mil people! They developed census! They built the Machu picchu

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "industrial revolution and imperialism (1800-1914)"
+title:  "industrial revolution (1800-1914)"
 date:   2000-01-05 00:35:00 +0000
 categories: jekyll update
 ---

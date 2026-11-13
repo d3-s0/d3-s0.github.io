@@ -15,8 +15,9 @@ Common elements are:
 - Copper (Cu), Aluminum (Al), & Silver (Ag): Key electrical conductors used extensively in electromagnetism, circuit analysis, resistance, and Lenz's/Faraday's law problems.
 - Iron (Fe), Nickel (Ni), & Cobalt (Co): Ferromagnetic elements central to magnetism, magnetic domains, and electromagnetism.
 - Silicon (Si) & Germanium (Ge): Semiconductors that form the foundation of solid-state physics, electronics, diodes, and transistor mechanics.
-- Uranium (U) & Plutonium (Pu): Heavy radioactive elements crucial for nuclear physics, fission reactions, binding energy, and radioactive decay chains
+- Uranium (U) & Plutonium (Pu): Heavy radioactive elements crucial for nuclear physics, fission reactions, binding energy, and radioactive decay chains.
 
+<img src="/imgs/science/period.PNG" alt="Migration" style="width: 100%; height: auto; display: block">
 
 Main Groups on the Periodic Table (Columns 1–18)
 - Group 1: Alkali Metals (e.g., Lithium, Sodium, Potassium)
