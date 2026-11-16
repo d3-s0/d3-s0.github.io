@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "science revolution (1500-1800)"
+title:  "scientific revolution (1500-1800)"
 date:   2000-01-04 00:34:00 +0000
 categories: jekyll update
 ---

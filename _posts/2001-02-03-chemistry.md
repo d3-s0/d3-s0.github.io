@@ -17,7 +17,7 @@ Common elements are:
 - Silicon (Si) & Germanium (Ge): Semiconductors that form the foundation of solid-state physics, electronics, diodes, and transistor mechanics.
 - Uranium (U) & Plutonium (Pu): Heavy radioactive elements crucial for nuclear physics, fission reactions, binding energy, and radioactive decay chains.
 
-<img src="/imgs/science/period.PNG" alt="Migration" style="width: 100%; height: auto; display: block">
+<img src="/imgs/science/period.png" alt="Migration" style="width: 100%; height: auto; display: block">
 
 Main Groups on the Periodic Table (Columns 1–18)
 - Group 1: Alkali Metals (e.g., Lithium, Sodium, Potassium)

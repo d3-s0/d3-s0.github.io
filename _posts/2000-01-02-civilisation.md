@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "first civilisations (3500BCE-500)"
+title:  "civilisations (3500BCE-500)"
 date:   2000-01-02 00:32:00 +0000
 categories: jekyll update
 ---
