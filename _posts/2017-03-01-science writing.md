@@ -52,7 +52,6 @@ The real flair with scientific writing comes from the critical analysis. Your:
 - Ability to analyse the results
 - Ability to arrive at conclusions that fit the data
 - Ability to think about any caveats that should be applied at the discussion stage
-
  
 **Background research**
 - When reading other scientists work, think critically about the experiment. Do conclusions make sense? Does data conclusively prove the hypothesis, or are there other ways of interpreting the data? Can results be repeated? Are the sources of information reliable? You should ask if the group conducting the experiment was unbiased. 
