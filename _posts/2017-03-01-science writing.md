@@ -5,8 +5,7 @@ date:   2000-03-01 00:45:00 +0000
 categories: jekyll update
 ---
 
-It's important that you share your results with fellow scientists so that they can learn from your work, critique it, and build upon it. 
-The structure of nearly reports are:
+It's important that you share your results with fellow scientists so that they can learn from your work, critique it, and build upon it.  The structure of nearly reports are:
 1. [Introduction](#introduction)
 2. [Methods](#methods)
 3. [Results](#results)
