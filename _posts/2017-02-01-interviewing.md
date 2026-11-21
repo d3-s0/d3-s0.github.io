@@ -35,7 +35,6 @@ These questions are from the book why you? by James Reed.
 - Good: honest, trustworthiness
 - Grit
 
-
 1. Tell me about yourself?
 2. Why are you applying?
 3. What are your greatest strengths?
